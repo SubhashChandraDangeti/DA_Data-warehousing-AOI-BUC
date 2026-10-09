@@ -1,0 +1,329 @@
+industry,occupation,household,geography,age,education,race,sex,citizenship,count_target,count_contrast,t_weight_pct,d_weight_pct,total_count
+ANY,ANY,ANY,ANY,ANY,Advanced Degree,Amer Indian Aleut or Eskimo,Female,Foreign born- Not a citizen of U S,1,0,0.01,100.0,1
+ANY,ANY,ANY,ANY,ANY,Advanced Degree,Amer Indian Aleut or Eskimo,Female,Foreign born- U S citizen by naturalization,1,0,0.01,100.0,1
+ANY,ANY,ANY,ANY,ANY,Advanced Degree,Amer Indian Aleut or Eskimo,Female,Native- Born in the United States,6,21,0.03,22.22,27
+ANY,ANY,ANY,ANY,ANY,Advanced Degree,Amer Indian Aleut or Eskimo,Male,Foreign born- Not a citizen of U S,1,0,0.01,100.0,1
+ANY,ANY,ANY,ANY,ANY,Advanced Degree,Amer Indian Aleut or Eskimo,Male,Native- Born abroad of American Parent(s),0,1,0.0,0.0,1
+ANY,ANY,ANY,ANY,ANY,Advanced Degree,Amer Indian Aleut or Eskimo,Male,Native- Born in the United States,5,17,0.03,22.73,22
+ANY,ANY,ANY,ANY,ANY,Advanced Degree,Asian or Pacific Islander,Female,Foreign born- Not a citizen of U S,13,114,0.07,10.24,127
+ANY,ANY,ANY,ANY,ANY,Advanced Degree,Asian or Pacific Islander,Female,Foreign born- U S citizen by naturalization,20,58,0.11,25.64,78
+ANY,ANY,ANY,ANY,ANY,Advanced Degree,Asian or Pacific Islander,Female,Native- Born abroad of American Parent(s),1,7,0.01,12.5,8
+ANY,ANY,ANY,ANY,ANY,Advanced Degree,Asian or Pacific Islander,Female,Native- Born in Puerto Rico or U S Outlying,0,2,0.0,0.0,2
+ANY,ANY,ANY,ANY,ANY,Advanced Degree,Asian or Pacific Islander,Female,Native- Born in the United States,13,31,0.07,29.55,44
+ANY,ANY,ANY,ANY,ANY,Advanced Degree,Asian or Pacific Islander,Male,Foreign born- Not a citizen of U S,93,179,0.5,34.19,272
+ANY,ANY,ANY,ANY,ANY,Advanced Degree,Asian or Pacific Islander,Male,Foreign born- U S citizen by naturalization,103,67,0.55,60.59,170
+ANY,ANY,ANY,ANY,ANY,Advanced Degree,Asian or Pacific Islander,Male,Native- Born abroad of American Parent(s),2,2,0.01,50.0,4
+ANY,ANY,ANY,ANY,ANY,Advanced Degree,Asian or Pacific Islander,Male,Native- Born in Puerto Rico or U S Outlying,0,1,0.0,0.0,1
+ANY,ANY,ANY,ANY,ANY,Advanced Degree,Asian or Pacific Islander,Male,Native- Born in the United States,22,22,0.12,50.0,44
+ANY,ANY,ANY,ANY,ANY,Advanced Degree,Black,Female,Foreign born- Not a citizen of U S,5,13,0.03,27.78,18
+ANY,ANY,ANY,ANY,ANY,Advanced Degree,Black,Female,Foreign born- U S citizen by naturalization,5,5,0.03,50.0,10
+ANY,ANY,ANY,ANY,ANY,Advanced Degree,Black,Female,Native- Born abroad of American Parent(s),0,4,0.0,0.0,4
+ANY,ANY,ANY,ANY,ANY,Advanced Degree,Black,Female,Native- Born in the United States,85,274,0.46,23.68,359
+ANY,ANY,ANY,ANY,ANY,Advanced Degree,Black,Male,Foreign born- Not a citizen of U S,14,27,0.08,34.15,41
+ANY,ANY,ANY,ANY,ANY,Advanced Degree,Black,Male,Foreign born- U S citizen by naturalization,8,17,0.04,32.0,25
+ANY,ANY,ANY,ANY,ANY,Advanced Degree,Black,Male,Native- Born abroad of American Parent(s),1,3,0.01,25.0,4
+ANY,ANY,ANY,ANY,ANY,Advanced Degree,Black,Male,Native- Born in the United States,87,141,0.47,38.16,228
+ANY,ANY,ANY,ANY,ANY,Advanced Degree,Other,Female,Foreign born- Not a citizen of U S,2,15,0.01,11.76,17
+ANY,ANY,ANY,ANY,ANY,Advanced Degree,Other,Female,Foreign born- U S citizen by naturalization,2,18,0.01,10.0,20
+ANY,ANY,ANY,ANY,ANY,Advanced Degree,Other,Female,Native- Born abroad of American Parent(s),0,3,0.0,0.0,3
+ANY,ANY,ANY,ANY,ANY,Advanced Degree,Other,Female,Native- Born in Puerto Rico or U S Outlying,2,6,0.01,25.0,8
+ANY,ANY,ANY,ANY,ANY,Advanced Degree,Other,Female,Native- Born in the United States,4,14,0.02,22.22,18
+ANY,ANY,ANY,ANY,ANY,Advanced Degree,Other,Male,Foreign born- Not a citizen of U S,8,18,0.04,30.77,26
+ANY,ANY,ANY,ANY,ANY,Advanced Degree,Other,Male,Foreign born- U S citizen by naturalization,17,6,0.09,73.91,23
+ANY,ANY,ANY,ANY,ANY,Advanced Degree,Other,Male,Native- Born abroad of American Parent(s),1,4,0.01,20.0,5
+ANY,ANY,ANY,ANY,ANY,Advanced Degree,Other,Male,Native- Born in Puerto Rico or U S Outlying,1,1,0.01,50.0,2
+ANY,ANY,ANY,ANY,ANY,Advanced Degree,Other,Male,Native- Born in the United States,7,8,0.04,46.67,15
+ANY,ANY,ANY,ANY,ANY,Advanced Degree,White,Female,Foreign born- Not a citizen of U S,27,152,0.15,15.08,179
+ANY,ANY,ANY,ANY,ANY,Advanced Degree,White,Female,Foreign born- U S citizen by naturalization,41,156,0.22,20.81,197
+ANY,ANY,ANY,ANY,ANY,Advanced Degree,White,Female,Native- Born abroad of American Parent(s),8,51,0.04,13.56,59
+ANY,ANY,ANY,ANY,ANY,Advanced Degree,White,Female,Native- Born in Puerto Rico or U S Outlying,0,15,0.0,0.0,15
+ANY,ANY,ANY,ANY,ANY,Advanced Degree,White,Female,Native- Born in the United States,1044,3810,5.62,21.51,4854
+ANY,ANY,ANY,ANY,ANY,Advanced Degree,White,Male,Foreign born- Not a citizen of U S,97,211,0.52,31.49,308
+ANY,ANY,ANY,ANY,ANY,Advanced Degree,White,Male,Foreign born- U S citizen by naturalization,168,130,0.9,56.38,298
+ANY,ANY,ANY,ANY,ANY,Advanced Degree,White,Male,Native- Born abroad of American Parent(s),49,44,0.26,52.69,93
+ANY,ANY,ANY,ANY,ANY,Advanced Degree,White,Male,Native- Born in Puerto Rico or U S Outlying,5,8,0.03,38.46,13
+ANY,ANY,ANY,ANY,ANY,Advanced Degree,White,Male,Native- Born in the United States,3526,3228,18.99,52.21,6754
+ANY,ANY,ANY,ANY,ANY,Bachelor's Degree,Amer Indian Aleut or Eskimo,Female,Foreign born- Not a citizen of U S,0,1,0.0,0.0,1
+ANY,ANY,ANY,ANY,ANY,Bachelor's Degree,Amer Indian Aleut or Eskimo,Female,Native- Born in the United States,1,60,0.01,1.64,61
+ANY,ANY,ANY,ANY,ANY,Bachelor's Degree,Amer Indian Aleut or Eskimo,Male,Foreign born- Not a citizen of U S,0,2,0.0,0.0,2
+ANY,ANY,ANY,ANY,ANY,Bachelor's Degree,Amer Indian Aleut or Eskimo,Male,Native- Born in the United States,11,43,0.06,20.37,54
+ANY,ANY,ANY,ANY,ANY,Bachelor's Degree,Asian or Pacific Islander,Female,Foreign born- Not a citizen of U S,29,366,0.16,7.34,395
+ANY,ANY,ANY,ANY,ANY,Bachelor's Degree,Asian or Pacific Islander,Female,Foreign born- U S citizen by naturalization,41,274,0.22,13.02,315
+ANY,ANY,ANY,ANY,ANY,Bachelor's Degree,Asian or Pacific Islander,Female,Native- Born abroad of American Parent(s),2,17,0.01,10.53,19
+ANY,ANY,ANY,ANY,ANY,Bachelor's Degree,Asian or Pacific Islander,Female,Native- Born in Puerto Rico or U S Outlying,0,1,0.0,0.0,1
+ANY,ANY,ANY,ANY,ANY,Bachelor's Degree,Asian or Pacific Islander,Female,Native- Born in the United States,13,123,0.07,9.56,136
+ANY,ANY,ANY,ANY,ANY,Bachelor's Degree,Asian or Pacific Islander,Male,Foreign born- Not a citizen of U S,62,230,0.33,21.23,292
+ANY,ANY,ANY,ANY,ANY,Bachelor's Degree,Asian or Pacific Islander,Male,Foreign born- U S citizen by naturalization,44,184,0.24,19.3,228
+ANY,ANY,ANY,ANY,ANY,Bachelor's Degree,Asian or Pacific Islander,Male,Native- Born abroad of American Parent(s),3,14,0.02,17.65,17
+ANY,ANY,ANY,ANY,ANY,Bachelor's Degree,Asian or Pacific Islander,Male,Native- Born in Puerto Rico or U S Outlying,0,1,0.0,0.0,1
+ANY,ANY,ANY,ANY,ANY,Bachelor's Degree,Asian or Pacific Islander,Male,Native- Born in the United States,42,89,0.23,32.06,131
+ANY,ANY,ANY,ANY,ANY,Bachelor's Degree,Black,Female,Foreign born- Not a citizen of U S,5,52,0.03,8.77,57
+ANY,ANY,ANY,ANY,ANY,Bachelor's Degree,Black,Female,Foreign born- U S citizen by naturalization,6,32,0.03,15.79,38
+ANY,ANY,ANY,ANY,ANY,Bachelor's Degree,Black,Female,Native- Born abroad of American Parent(s),0,12,0.0,0.0,12
+ANY,ANY,ANY,ANY,ANY,Bachelor's Degree,Black,Female,Native- Born in Puerto Rico or U S Outlying,0,6,0.0,0.0,6
+ANY,ANY,ANY,ANY,ANY,Bachelor's Degree,Black,Female,Native- Born in the United States,72,766,0.39,8.59,838
+ANY,ANY,ANY,ANY,ANY,Bachelor's Degree,Black,Male,Foreign born- Not a citizen of U S,8,62,0.04,11.43,70
+ANY,ANY,ANY,ANY,ANY,Bachelor's Degree,Black,Male,Foreign born- U S citizen by naturalization,6,34,0.03,15.0,40
+ANY,ANY,ANY,ANY,ANY,Bachelor's Degree,Black,Male,Native- Born abroad of American Parent(s),2,7,0.01,22.22,9
+ANY,ANY,ANY,ANY,ANY,Bachelor's Degree,Black,Male,Native- Born in Puerto Rico or U S Outlying,0,6,0.0,0.0,6
+ANY,ANY,ANY,ANY,ANY,Bachelor's Degree,Black,Male,Native- Born in the United States,126,480,0.68,20.79,606
+ANY,ANY,ANY,ANY,ANY,Bachelor's Degree,Other,Female,Foreign born- Not a citizen of U S,3,31,0.02,8.82,34
+ANY,ANY,ANY,ANY,ANY,Bachelor's Degree,Other,Female,Foreign born- U S citizen by naturalization,0,10,0.0,0.0,10
+ANY,ANY,ANY,ANY,ANY,Bachelor's Degree,Other,Female,Native- Born abroad of American Parent(s),0,4,0.0,0.0,4
+ANY,ANY,ANY,ANY,ANY,Bachelor's Degree,Other,Female,Native- Born in Puerto Rico or U S Outlying,1,12,0.01,7.69,13
+ANY,ANY,ANY,ANY,ANY,Bachelor's Degree,Other,Female,Native- Born in the United States,2,66,0.01,2.94,68
+ANY,ANY,ANY,ANY,ANY,Bachelor's Degree,Other,Male,Foreign born- Not a citizen of U S,2,35,0.01,5.41,37
+ANY,ANY,ANY,ANY,ANY,Bachelor's Degree,Other,Male,Foreign born- U S citizen by naturalization,6,24,0.03,20.0,30
+ANY,ANY,ANY,ANY,ANY,Bachelor's Degree,Other,Male,Native- Born in Puerto Rico or U S Outlying,3,7,0.02,30.0,10
+ANY,ANY,ANY,ANY,ANY,Bachelor's Degree,Other,Male,Native- Born in the United States,12,47,0.06,20.34,59
+ANY,ANY,ANY,ANY,ANY,Bachelor's Degree,White,Female,Foreign born- Not a citizen of U S,26,462,0.14,5.33,488
+ANY,ANY,ANY,ANY,ANY,Bachelor's Degree,White,Female,Foreign born- U S citizen by naturalization,25,337,0.13,6.91,362
+ANY,ANY,ANY,ANY,ANY,Bachelor's Degree,White,Female,Native- Born abroad of American Parent(s),8,123,0.04,6.11,131
+ANY,ANY,ANY,ANY,ANY,Bachelor's Degree,White,Female,Native- Born in Puerto Rico or U S Outlying,3,38,0.02,7.32,41
+ANY,ANY,ANY,ANY,ANY,Bachelor's Degree,White,Female,Native- Born in the United States,1067,10769,5.75,9.01,11836
+ANY,ANY,ANY,ANY,ANY,Bachelor's Degree,White,Male,Foreign born- Not a citizen of U S,89,373,0.48,19.26,462
+ANY,ANY,ANY,ANY,ANY,Bachelor's Degree,White,Male,Foreign born- U S citizen by naturalization,117,234,0.63,33.33,351
+ANY,ANY,ANY,ANY,ANY,Bachelor's Degree,White,Male,Native- Born abroad of American Parent(s),45,110,0.24,29.03,155
+ANY,ANY,ANY,ANY,ANY,Bachelor's Degree,White,Male,Native- Born in Puerto Rico or U S Outlying,10,24,0.05,29.41,34
+ANY,ANY,ANY,ANY,ANY,Bachelor's Degree,White,Male,Native- Born in the United States,3985,8305,21.46,32.42,12290
+ANY,ANY,ANY,ANY,ANY,Below High School,Amer Indian Aleut or Eskimo,Female,Foreign born- Not a citizen of U S,0,5,0.0,0.0,5
+ANY,ANY,ANY,ANY,ANY,Below High School,Amer Indian Aleut or Eskimo,Female,Foreign born- U S citizen by naturalization,0,1,0.0,0.0,1
+ANY,ANY,ANY,ANY,ANY,Below High School,Amer Indian Aleut or Eskimo,Female,Native- Born abroad of American Parent(s),0,1,0.0,0.0,1
+ANY,ANY,ANY,ANY,ANY,Below High School,Amer Indian Aleut or Eskimo,Female,Native- Born in Puerto Rico or U S Outlying,0,1,0.0,0.0,1
+ANY,ANY,ANY,ANY,ANY,Below High School,Amer Indian Aleut or Eskimo,Female,Native- Born in the United States,0,138,0.0,0.0,138
+ANY,ANY,ANY,ANY,ANY,Below High School,Amer Indian Aleut or Eskimo,Male,Foreign born- Not a citizen of U S,0,8,0.0,0.0,8
+ANY,ANY,ANY,ANY,ANY,Below High School,Amer Indian Aleut or Eskimo,Male,Foreign born- U S citizen by naturalization,0,2,0.0,0.0,2
+ANY,ANY,ANY,ANY,ANY,Below High School,Amer Indian Aleut or Eskimo,Male,Native- Born abroad of American Parent(s),0,1,0.0,0.0,1
+ANY,ANY,ANY,ANY,ANY,Below High School,Amer Indian Aleut or Eskimo,Male,Native- Born in the United States,0,114,0.0,0.0,114
+ANY,ANY,ANY,ANY,ANY,Below High School,Asian or Pacific Islander,Female,Foreign born- Not a citizen of U S,1,263,0.01,0.38,264
+ANY,ANY,ANY,ANY,ANY,Below High School,Asian or Pacific Islander,Female,Foreign born- U S citizen by naturalization,0,74,0.0,0.0,74
+ANY,ANY,ANY,ANY,ANY,Below High School,Asian or Pacific Islander,Female,Native- Born abroad of American Parent(s),0,6,0.0,0.0,6
+ANY,ANY,ANY,ANY,ANY,Below High School,Asian or Pacific Islander,Female,Native- Born in Puerto Rico or U S Outlying,0,8,0.0,0.0,8
+ANY,ANY,ANY,ANY,ANY,Below High School,Asian or Pacific Islander,Female,Native- Born in the United States,0,34,0.0,0.0,34
+ANY,ANY,ANY,ANY,ANY,Below High School,Asian or Pacific Islander,Male,Foreign born- Not a citizen of U S,0,128,0.0,0.0,128
+ANY,ANY,ANY,ANY,ANY,Below High School,Asian or Pacific Islander,Male,Foreign born- U S citizen by naturalization,2,43,0.01,4.44,45
+ANY,ANY,ANY,ANY,ANY,Below High School,Asian or Pacific Islander,Male,Native- Born abroad of American Parent(s),0,2,0.0,0.0,2
+ANY,ANY,ANY,ANY,ANY,Below High School,Asian or Pacific Islander,Male,Native- Born in Puerto Rico or U S Outlying,0,2,0.0,0.0,2
+ANY,ANY,ANY,ANY,ANY,Below High School,Asian or Pacific Islander,Male,Native- Born in the United States,0,26,0.0,0.0,26
+ANY,ANY,ANY,ANY,ANY,Below High School,Black,Female,Foreign born- Not a citizen of U S,0,93,0.0,0.0,93
+ANY,ANY,ANY,ANY,ANY,Below High School,Black,Female,Foreign born- U S citizen by naturalization,0,24,0.0,0.0,24
+ANY,ANY,ANY,ANY,ANY,Below High School,Black,Female,Native- Born abroad of American Parent(s),0,3,0.0,0.0,3
+ANY,ANY,ANY,ANY,ANY,Below High School,Black,Female,Native- Born in Puerto Rico or U S Outlying,0,14,0.0,0.0,14
+ANY,ANY,ANY,ANY,ANY,Below High School,Black,Female,Native- Born in the United States,2,1004,0.01,0.2,1006
+ANY,ANY,ANY,ANY,ANY,Below High School,Black,Male,Foreign born- Not a citizen of U S,1,72,0.01,1.37,73
+ANY,ANY,ANY,ANY,ANY,Below High School,Black,Male,Foreign born- U S citizen by naturalization,0,16,0.0,0.0,16
+ANY,ANY,ANY,ANY,ANY,Below High School,Black,Male,Native- Born abroad of American Parent(s),0,7,0.0,0.0,7
+ANY,ANY,ANY,ANY,ANY,Below High School,Black,Male,Native- Born in Puerto Rico or U S Outlying,0,12,0.0,0.0,12
+ANY,ANY,ANY,ANY,ANY,Below High School,Black,Male,Native- Born in the United States,10,949,0.05,1.04,959
+ANY,ANY,ANY,ANY,ANY,Below High School,Other,Female,Foreign born- Not a citizen of U S,0,310,0.0,0.0,310
+ANY,ANY,ANY,ANY,ANY,Below High School,Other,Female,Foreign born- U S citizen by naturalization,1,31,0.01,3.12,32
+ANY,ANY,ANY,ANY,ANY,Below High School,Other,Female,Native- Born abroad of American Parent(s),0,7,0.0,0.0,7
+ANY,ANY,ANY,ANY,ANY,Below High School,Other,Female,Native- Born in Puerto Rico or U S Outlying,0,29,0.0,0.0,29
+ANY,ANY,ANY,ANY,ANY,Below High School,Other,Female,Native- Born in the United States,0,86,0.0,0.0,86
+ANY,ANY,ANY,ANY,ANY,Below High School,Other,Male,Foreign born- Not a citizen of U S,5,267,0.03,1.84,272
+ANY,ANY,ANY,ANY,ANY,Below High School,Other,Male,Foreign born- U S citizen by naturalization,2,45,0.01,4.26,47
+ANY,ANY,ANY,ANY,ANY,Below High School,Other,Male,Native- Born abroad of American Parent(s),0,7,0.0,0.0,7
+ANY,ANY,ANY,ANY,ANY,Below High School,Other,Male,Native- Born in Puerto Rico or U S Outlying,1,26,0.01,3.7,27
+ANY,ANY,ANY,ANY,ANY,Below High School,Other,Male,Native- Born in the United States,1,64,0.01,1.54,65
+ANY,ANY,ANY,ANY,ANY,Below High School,White,Female,Foreign born- Not a citizen of U S,7,2274,0.04,0.31,2281
+ANY,ANY,ANY,ANY,ANY,Below High School,White,Female,Foreign born- U S citizen by naturalization,2,679,0.01,0.29,681
+ANY,ANY,ANY,ANY,ANY,Below High School,White,Female,Native- Born abroad of American Parent(s),0,90,0.0,0.0,90
+ANY,ANY,ANY,ANY,ANY,Below High School,White,Female,Native- Born in Puerto Rico or U S Outlying,0,259,0.0,0.0,259
+ANY,ANY,ANY,ANY,ANY,Below High School,White,Female,Native- Born in the United States,10,5457,0.05,0.18,5467
+ANY,ANY,ANY,ANY,ANY,Below High School,White,Male,Foreign born- Not a citizen of U S,27,2016,0.15,1.32,2043
+ANY,ANY,ANY,ANY,ANY,Below High School,White,Male,Foreign born- U S citizen by naturalization,17,503,0.09,3.27,520
+ANY,ANY,ANY,ANY,ANY,Below High School,White,Male,Native- Born abroad of American Parent(s),0,100,0.0,0.0,100
+ANY,ANY,ANY,ANY,ANY,Below High School,White,Male,Native- Born in Puerto Rico or U S Outlying,0,142,0.0,0.0,142
+ANY,ANY,ANY,ANY,ANY,Below High School,White,Male,Native- Born in the United States,78,5477,0.42,1.4,5555
+ANY,ANY,ANY,ANY,ANY,High School Graduate,Amer Indian Aleut or Eskimo,Female,Foreign born- Not a citizen of U S,0,6,0.0,0.0,6
+ANY,ANY,ANY,ANY,ANY,High School Graduate,Amer Indian Aleut or Eskimo,Female,Foreign born- U S citizen by naturalization,0,1,0.0,0.0,1
+ANY,ANY,ANY,ANY,ANY,High School Graduate,Amer Indian Aleut or Eskimo,Female,Native- Born abroad of American Parent(s),0,6,0.0,0.0,6
+ANY,ANY,ANY,ANY,ANY,High School Graduate,Amer Indian Aleut or Eskimo,Female,Native- Born in the United States,2,367,0.01,0.54,369
+ANY,ANY,ANY,ANY,ANY,High School Graduate,Amer Indian Aleut or Eskimo,Male,Foreign born- Not a citizen of U S,1,6,0.01,14.29,7
+ANY,ANY,ANY,ANY,ANY,High School Graduate,Amer Indian Aleut or Eskimo,Male,Foreign born- U S citizen by naturalization,0,4,0.0,0.0,4
+ANY,ANY,ANY,ANY,ANY,High School Graduate,Amer Indian Aleut or Eskimo,Male,Native- Born abroad of American Parent(s),0,4,0.0,0.0,4
+ANY,ANY,ANY,ANY,ANY,High School Graduate,Amer Indian Aleut or Eskimo,Male,Native- Born in Puerto Rico or U S Outlying,0,1,0.0,0.0,1
+ANY,ANY,ANY,ANY,ANY,High School Graduate,Amer Indian Aleut or Eskimo,Male,Native- Born in the United States,15,332,0.08,4.32,347
+ANY,ANY,ANY,ANY,ANY,High School Graduate,Asian or Pacific Islander,Female,Foreign born- Not a citizen of U S,6,395,0.03,1.5,401
+ANY,ANY,ANY,ANY,ANY,High School Graduate,Asian or Pacific Islander,Female,Foreign born- U S citizen by naturalization,2,258,0.01,0.77,260
+ANY,ANY,ANY,ANY,ANY,High School Graduate,Asian or Pacific Islander,Female,Native- Born abroad of American Parent(s),0,19,0.0,0.0,19
+ANY,ANY,ANY,ANY,ANY,High School Graduate,Asian or Pacific Islander,Female,Native- Born in Puerto Rico or U S Outlying,0,7,0.0,0.0,7
+ANY,ANY,ANY,ANY,ANY,High School Graduate,Asian or Pacific Islander,Female,Native- Born in the United States,3,160,0.02,1.84,163
+ANY,ANY,ANY,ANY,ANY,High School Graduate,Asian or Pacific Islander,Male,Foreign born- Not a citizen of U S,11,266,0.06,3.97,277
+ANY,ANY,ANY,ANY,ANY,High School Graduate,Asian or Pacific Islander,Male,Foreign born- U S citizen by naturalization,13,134,0.07,8.84,147
+ANY,ANY,ANY,ANY,ANY,High School Graduate,Asian or Pacific Islander,Male,Native- Born abroad of American Parent(s),1,22,0.01,4.35,23
+ANY,ANY,ANY,ANY,ANY,High School Graduate,Asian or Pacific Islander,Male,Native- Born in Puerto Rico or U S Outlying,1,7,0.01,12.5,8
+ANY,ANY,ANY,ANY,ANY,High School Graduate,Asian or Pacific Islander,Male,Native- Born in the United States,14,119,0.08,10.53,133
+ANY,ANY,ANY,ANY,ANY,High School Graduate,Black,Female,Foreign born- Not a citizen of U S,0,170,0.0,0.0,170
+ANY,ANY,ANY,ANY,ANY,High School Graduate,Black,Female,Foreign born- U S citizen by naturalization,0,98,0.0,0.0,98
+ANY,ANY,ANY,ANY,ANY,High School Graduate,Black,Female,Native- Born abroad of American Parent(s),0,13,0.0,0.0,13
+ANY,ANY,ANY,ANY,ANY,High School Graduate,Black,Female,Native- Born in Puerto Rico or U S Outlying,0,31,0.0,0.0,31
+ANY,ANY,ANY,ANY,ANY,High School Graduate,Black,Female,Native- Born in the United States,38,3682,0.2,1.02,3720
+ANY,ANY,ANY,ANY,ANY,High School Graduate,Black,Male,Foreign born- Not a citizen of U S,0,149,0.0,0.0,149
+ANY,ANY,ANY,ANY,ANY,High School Graduate,Black,Male,Foreign born- U S citizen by naturalization,3,69,0.02,4.17,72
+ANY,ANY,ANY,ANY,ANY,High School Graduate,Black,Male,Native- Born abroad of American Parent(s),0,13,0.0,0.0,13
+ANY,ANY,ANY,ANY,ANY,High School Graduate,Black,Male,Native- Born in Puerto Rico or U S Outlying,1,9,0.01,10.0,10
+ANY,ANY,ANY,ANY,ANY,High School Graduate,Black,Male,Native- Born in the United States,92,2642,0.5,3.37,2734
+ANY,ANY,ANY,ANY,ANY,High School Graduate,Other,Female,Foreign born- Not a citizen of U S,0,135,0.0,0.0,135
+ANY,ANY,ANY,ANY,ANY,High School Graduate,Other,Female,Foreign born- U S citizen by naturalization,0,37,0.0,0.0,37
+ANY,ANY,ANY,ANY,ANY,High School Graduate,Other,Female,Native- Born abroad of American Parent(s),0,4,0.0,0.0,4
+ANY,ANY,ANY,ANY,ANY,High School Graduate,Other,Female,Native- Born in Puerto Rico or U S Outlying,0,54,0.0,0.0,54
+ANY,ANY,ANY,ANY,ANY,High School Graduate,Other,Female,Native- Born in the United States,3,200,0.02,1.48,203
+ANY,ANY,ANY,ANY,ANY,High School Graduate,Other,Male,Foreign born- Not a citizen of U S,3,131,0.02,2.24,134
+ANY,ANY,ANY,ANY,ANY,High School Graduate,Other,Male,Foreign born- U S citizen by naturalization,1,43,0.01,2.27,44
+ANY,ANY,ANY,ANY,ANY,High School Graduate,Other,Male,Native- Born abroad of American Parent(s),1,6,0.01,14.29,7
+ANY,ANY,ANY,ANY,ANY,High School Graduate,Other,Male,Native- Born in Puerto Rico or U S Outlying,1,41,0.01,2.38,42
+ANY,ANY,ANY,ANY,ANY,High School Graduate,Other,Male,Native- Born in the United States,4,188,0.02,2.08,192
+ANY,ANY,ANY,ANY,ANY,High School Graduate,White,Female,Foreign born- Not a citizen of U S,13,1431,0.07,0.9,1444
+ANY,ANY,ANY,ANY,ANY,High School Graduate,White,Female,Foreign born- U S citizen by naturalization,23,991,0.12,2.27,1014
+ANY,ANY,ANY,ANY,ANY,High School Graduate,White,Female,Native- Born abroad of American Parent(s),2,252,0.01,0.79,254
+ANY,ANY,ANY,ANY,ANY,High School Graduate,White,Female,Native- Born in Puerto Rico or U S Outlying,2,250,0.01,0.79,252
+ANY,ANY,ANY,ANY,ANY,High School Graduate,White,Female,Native- Born in the United States,409,31084,2.2,1.3,31493
+ANY,ANY,ANY,ANY,ANY,High School Graduate,White,Male,Foreign born- Not a citizen of U S,50,1272,0.27,3.78,1322
+ANY,ANY,ANY,ANY,ANY,High School Graduate,White,Male,Foreign born- U S citizen by naturalization,58,608,0.31,8.71,666
+ANY,ANY,ANY,ANY,ANY,High School Graduate,White,Male,Native- Born abroad of American Parent(s),13,192,0.07,6.34,205
+ANY,ANY,ANY,ANY,ANY,High School Graduate,White,Male,Native- Born in Puerto Rico or U S Outlying,7,179,0.04,3.76,186
+ANY,ANY,ANY,ANY,ANY,High School Graduate,White,Male,Native- Born in the United States,2080,23593,11.2,8.1,25673
+ANY,ANY,ANY,ANY,ANY,Not Applicable,Amer Indian Aleut or Eskimo,Female,Foreign born- Not a citizen of U S,0,5,0.0,0.0,5
+ANY,ANY,ANY,ANY,ANY,Not Applicable,Amer Indian Aleut or Eskimo,Female,Foreign born- U S citizen by naturalization,0,2,0.0,0.0,2
+ANY,ANY,ANY,ANY,ANY,Not Applicable,Amer Indian Aleut or Eskimo,Female,Native- Born abroad of American Parent(s),0,1,0.0,0.0,1
+ANY,ANY,ANY,ANY,ANY,Not Applicable,Amer Indian Aleut or Eskimo,Female,Native- Born in the United States,0,564,0.0,0.0,564
+ANY,ANY,ANY,ANY,ANY,Not Applicable,Amer Indian Aleut or Eskimo,Male,Foreign born- Not a citizen of U S,0,7,0.0,0.0,7
+ANY,ANY,ANY,ANY,ANY,Not Applicable,Amer Indian Aleut or Eskimo,Male,Foreign born- U S citizen by naturalization,0,1,0.0,0.0,1
+ANY,ANY,ANY,ANY,ANY,Not Applicable,Amer Indian Aleut or Eskimo,Male,Native- Born abroad of American Parent(s),0,5,0.0,0.0,5
+ANY,ANY,ANY,ANY,ANY,Not Applicable,Amer Indian Aleut or Eskimo,Male,Native- Born in the United States,0,573,0.0,0.0,573
+ANY,ANY,ANY,ANY,ANY,Not Applicable,Asian or Pacific Islander,Female,Foreign born- Not a citizen of U S,0,184,0.0,0.0,184
+ANY,ANY,ANY,ANY,ANY,Not Applicable,Asian or Pacific Islander,Female,Foreign born- U S citizen by naturalization,0,53,0.0,0.0,53
+ANY,ANY,ANY,ANY,ANY,Not Applicable,Asian or Pacific Islander,Female,Native- Born abroad of American Parent(s),0,23,0.0,0.0,23
+ANY,ANY,ANY,ANY,ANY,Not Applicable,Asian or Pacific Islander,Female,Native- Born in Puerto Rico or U S Outlying,0,5,0.0,0.0,5
+ANY,ANY,ANY,ANY,ANY,Not Applicable,Asian or Pacific Islander,Female,Native- Born in the United States,0,801,0.0,0.0,801
+ANY,ANY,ANY,ANY,ANY,Not Applicable,Asian or Pacific Islander,Male,Foreign born- Not a citizen of U S,0,208,0.0,0.0,208
+ANY,ANY,ANY,ANY,ANY,Not Applicable,Asian or Pacific Islander,Male,Foreign born- U S citizen by naturalization,0,40,0.0,0.0,40
+ANY,ANY,ANY,ANY,ANY,Not Applicable,Asian or Pacific Islander,Male,Native- Born abroad of American Parent(s),0,22,0.0,0.0,22
+ANY,ANY,ANY,ANY,ANY,Not Applicable,Asian or Pacific Islander,Male,Native- Born in Puerto Rico or U S Outlying,0,8,0.0,0.0,8
+ANY,ANY,ANY,ANY,ANY,Not Applicable,Asian or Pacific Islander,Male,Native- Born in the United States,0,831,0.0,0.0,831
+ANY,ANY,ANY,ANY,ANY,Not Applicable,Black,Female,Foreign born- Not a citizen of U S,0,67,0.0,0.0,67
+ANY,ANY,ANY,ANY,ANY,Not Applicable,Black,Female,Foreign born- U S citizen by naturalization,0,3,0.0,0.0,3
+ANY,ANY,ANY,ANY,ANY,Not Applicable,Black,Female,Native- Born abroad of American Parent(s),0,29,0.0,0.0,29
+ANY,ANY,ANY,ANY,ANY,Not Applicable,Black,Female,Native- Born in Puerto Rico or U S Outlying,0,12,0.0,0.0,12
+ANY,ANY,ANY,ANY,ANY,Not Applicable,Black,Female,Native- Born in the United States,0,4450,0.0,0.0,4450
+ANY,ANY,ANY,ANY,ANY,Not Applicable,Black,Male,Foreign born- Not a citizen of U S,0,69,0.0,0.0,69
+ANY,ANY,ANY,ANY,ANY,Not Applicable,Black,Male,Foreign born- U S citizen by naturalization,0,9,0.0,0.0,9
+ANY,ANY,ANY,ANY,ANY,Not Applicable,Black,Male,Native- Born abroad of American Parent(s),0,35,0.0,0.0,35
+ANY,ANY,ANY,ANY,ANY,Not Applicable,Black,Male,Native- Born in Puerto Rico or U S Outlying,0,12,0.0,0.0,12
+ANY,ANY,ANY,ANY,ANY,Not Applicable,Black,Male,Native- Born in the United States,0,4440,0.0,0.0,4440
+ANY,ANY,ANY,ANY,ANY,Not Applicable,Other,Female,Foreign born- Not a citizen of U S,0,118,0.0,0.0,118
+ANY,ANY,ANY,ANY,ANY,Not Applicable,Other,Female,Foreign born- U S citizen by naturalization,0,3,0.0,0.0,3
+ANY,ANY,ANY,ANY,ANY,Not Applicable,Other,Female,Native- Born abroad of American Parent(s),0,10,0.0,0.0,10
+ANY,ANY,ANY,ANY,ANY,Not Applicable,Other,Female,Native- Born in Puerto Rico or U S Outlying,0,15,0.0,0.0,15
+ANY,ANY,ANY,ANY,ANY,Not Applicable,Other,Female,Native- Born in the United States,0,819,0.0,0.0,819
+ANY,ANY,ANY,ANY,ANY,Not Applicable,Other,Male,Foreign born- Not a citizen of U S,0,136,0.0,0.0,136
+ANY,ANY,ANY,ANY,ANY,Not Applicable,Other,Male,Foreign born- U S citizen by naturalization,0,6,0.0,0.0,6
+ANY,ANY,ANY,ANY,ANY,Not Applicable,Other,Male,Native- Born abroad of American Parent(s),0,13,0.0,0.0,13
+ANY,ANY,ANY,ANY,ANY,Not Applicable,Other,Male,Native- Born in Puerto Rico or U S Outlying,0,24,0.0,0.0,24
+ANY,ANY,ANY,ANY,ANY,Not Applicable,Other,Male,Native- Born in the United States,0,838,0.0,0.0,838
+ANY,ANY,ANY,ANY,ANY,Not Applicable,White,Female,Foreign born- Not a citizen of U S,0,686,0.0,0.0,686
+ANY,ANY,ANY,ANY,ANY,Not Applicable,White,Female,Foreign born- U S citizen by naturalization,0,54,0.0,0.0,54
+ANY,ANY,ANY,ANY,ANY,Not Applicable,White,Female,Native- Born abroad of American Parent(s),0,199,0.0,0.0,199
+ANY,ANY,ANY,ANY,ANY,Not Applicable,White,Female,Native- Born in Puerto Rico or U S Outlying,0,76,0.0,0.0,76
+ANY,ANY,ANY,ANY,ANY,Not Applicable,White,Female,Native- Born in the United States,0,26718,0.0,0.0,26718
+ANY,ANY,ANY,ANY,ANY,Not Applicable,White,Male,Foreign born- Not a citizen of U S,0,684,0.0,0.0,684
+ANY,ANY,ANY,ANY,ANY,Not Applicable,White,Male,Foreign born- U S citizen by naturalization,0,60,0.0,0.0,60
+ANY,ANY,ANY,ANY,ANY,Not Applicable,White,Male,Native- Born abroad of American Parent(s),0,176,0.0,0.0,176
+ANY,ANY,ANY,ANY,ANY,Not Applicable,White,Male,Native- Born in Puerto Rico or U S Outlying,0,91,0.0,0.0,91
+ANY,ANY,ANY,ANY,ANY,Not Applicable,White,Male,Native- Born in the United States,0,27679,0.0,0.0,27679
+ANY,ANY,ANY,ANY,ANY,Some College / Associate,Amer Indian Aleut or Eskimo,Female,Foreign born- Not a citizen of U S,0,6,0.0,0.0,6
+ANY,ANY,ANY,ANY,ANY,Some College / Associate,Amer Indian Aleut or Eskimo,Female,Foreign born- U S citizen by naturalization,0,1,0.0,0.0,1
+ANY,ANY,ANY,ANY,ANY,Some College / Associate,Amer Indian Aleut or Eskimo,Female,Native- Born abroad of American Parent(s),0,3,0.0,0.0,3
+ANY,ANY,ANY,ANY,ANY,Some College / Associate,Amer Indian Aleut or Eskimo,Female,Native- Born in the United States,7,310,0.04,2.21,317
+ANY,ANY,ANY,ANY,ANY,Some College / Associate,Amer Indian Aleut or Eskimo,Male,Foreign born- Not a citizen of U S,0,4,0.0,0.0,4
+ANY,ANY,ANY,ANY,ANY,Some College / Associate,Amer Indian Aleut or Eskimo,Male,Foreign born- U S citizen by naturalization,0,1,0.0,0.0,1
+ANY,ANY,ANY,ANY,ANY,Some College / Associate,Amer Indian Aleut or Eskimo,Male,Native- Born abroad of American Parent(s),0,1,0.0,0.0,1
+ANY,ANY,ANY,ANY,ANY,Some College / Associate,Amer Indian Aleut or Eskimo,Male,Native- Born in the United States,23,232,0.12,9.02,255
+ANY,ANY,ANY,ANY,ANY,Some College / Associate,Asian or Pacific Islander,Female,Foreign born- Not a citizen of U S,2,273,0.01,0.73,275
+ANY,ANY,ANY,ANY,ANY,Some College / Associate,Asian or Pacific Islander,Female,Foreign born- U S citizen by naturalization,7,214,0.04,3.17,221
+ANY,ANY,ANY,ANY,ANY,Some College / Associate,Asian or Pacific Islander,Female,Native- Born abroad of American Parent(s),0,29,0.0,0.0,29
+ANY,ANY,ANY,ANY,ANY,Some College / Associate,Asian or Pacific Islander,Female,Native- Born in Puerto Rico or U S Outlying,0,4,0.0,0.0,4
+ANY,ANY,ANY,ANY,ANY,Some College / Associate,Asian or Pacific Islander,Female,Native- Born in the United States,8,239,0.04,3.24,247
+ANY,ANY,ANY,ANY,ANY,Some College / Associate,Asian or Pacific Islander,Male,Foreign born- Not a citizen of U S,8,245,0.04,3.16,253
+ANY,ANY,ANY,ANY,ANY,Some College / Associate,Asian or Pacific Islander,Male,Foreign born- U S citizen by naturalization,12,207,0.06,5.48,219
+ANY,ANY,ANY,ANY,ANY,Some College / Associate,Asian or Pacific Islander,Male,Native- Born abroad of American Parent(s),4,26,0.02,13.33,30
+ANY,ANY,ANY,ANY,ANY,Some College / Associate,Asian or Pacific Islander,Male,Native- Born in Puerto Rico or U S Outlying,1,7,0.01,12.5,8
+ANY,ANY,ANY,ANY,ANY,Some College / Associate,Asian or Pacific Islander,Male,Native- Born in the United States,21,200,0.11,9.5,221
+ANY,ANY,ANY,ANY,ANY,Some College / Associate,Black,Female,Foreign born- Not a citizen of U S,3,139,0.02,2.11,142
+ANY,ANY,ANY,ANY,ANY,Some College / Associate,Black,Female,Foreign born- U S citizen by naturalization,1,54,0.01,1.82,55
+ANY,ANY,ANY,ANY,ANY,Some College / Associate,Black,Female,Native- Born abroad of American Parent(s),0,23,0.0,0.0,23
+ANY,ANY,ANY,ANY,ANY,Some College / Associate,Black,Female,Native- Born in Puerto Rico or U S Outlying,0,14,0.0,0.0,14
+ANY,ANY,ANY,ANY,ANY,Some College / Associate,Black,Female,Native- Born in the United States,60,2695,0.32,2.18,2755
+ANY,ANY,ANY,ANY,ANY,Some College / Associate,Black,Male,Foreign born- Not a citizen of U S,5,100,0.03,4.76,105
+ANY,ANY,ANY,ANY,ANY,Some College / Associate,Black,Male,Foreign born- U S citizen by naturalization,6,38,0.03,13.64,44
+ANY,ANY,ANY,ANY,ANY,Some College / Associate,Black,Male,Native- Born abroad of American Parent(s),5,19,0.03,20.83,24
+ANY,ANY,ANY,ANY,ANY,Some College / Associate,Black,Male,Native- Born in Puerto Rico or U S Outlying,1,11,0.01,8.33,12
+ANY,ANY,ANY,ANY,ANY,Some College / Associate,Black,Male,Native- Born in the United States,124,1670,0.67,6.91,1794
+ANY,ANY,ANY,ANY,ANY,Some College / Associate,Other,Female,Foreign born- Not a citizen of U S,3,89,0.02,3.26,92
+ANY,ANY,ANY,ANY,ANY,Some College / Associate,Other,Female,Foreign born- U S citizen by naturalization,0,52,0.0,0.0,52
+ANY,ANY,ANY,ANY,ANY,Some College / Associate,Other,Female,Native- Born abroad of American Parent(s),0,10,0.0,0.0,10
+ANY,ANY,ANY,ANY,ANY,Some College / Associate,Other,Female,Native- Born in Puerto Rico or U S Outlying,1,23,0.01,4.17,24
+ANY,ANY,ANY,ANY,ANY,Some College / Associate,Other,Female,Native- Born in the United States,4,205,0.02,1.91,209
+ANY,ANY,ANY,ANY,ANY,Some College / Associate,Other,Male,Foreign born- Not a citizen of U S,3,80,0.02,3.61,83
+ANY,ANY,ANY,ANY,ANY,Some College / Associate,Other,Male,Foreign born- U S citizen by naturalization,3,29,0.02,9.38,32
+ANY,ANY,ANY,ANY,ANY,Some College / Associate,Other,Male,Native- Born abroad of American Parent(s),1,7,0.01,12.5,8
+ANY,ANY,ANY,ANY,ANY,Some College / Associate,Other,Male,Native- Born in Puerto Rico or U S Outlying,1,10,0.01,9.09,11
+ANY,ANY,ANY,ANY,ANY,Some College / Associate,Other,Male,Native- Born in the United States,13,139,0.07,8.55,152
+ANY,ANY,ANY,ANY,ANY,Some College / Associate,White,Female,Foreign born- Not a citizen of U S,20,855,0.11,2.29,875
+ANY,ANY,ANY,ANY,ANY,Some College / Associate,White,Female,Foreign born- U S citizen by naturalization,27,712,0.15,3.65,739
+ANY,ANY,ANY,ANY,ANY,Some College / Associate,White,Female,Native- Born abroad of American Parent(s),3,238,0.02,1.24,241
+ANY,ANY,ANY,ANY,ANY,Some College / Associate,White,Female,Native- Born in Puerto Rico or U S Outlying,2,120,0.01,1.64,122
+ANY,ANY,ANY,ANY,ANY,Some College / Associate,White,Female,Native- Born in the United States,655,23706,3.53,2.69,24361
+ANY,ANY,ANY,ANY,ANY,Some College / Associate,White,Male,Foreign born- Not a citizen of U S,50,656,0.27,7.08,706
+ANY,ANY,ANY,ANY,ANY,Some College / Associate,White,Male,Foreign born- U S citizen by naturalization,94,457,0.51,17.06,551
+ANY,ANY,ANY,ANY,ANY,Some College / Associate,White,Male,Native- Born abroad of American Parent(s),33,221,0.18,12.99,254
+ANY,ANY,ANY,ANY,ANY,Some College / Associate,White,Male,Native- Born in Puerto Rico or U S Outlying,7,90,0.04,7.22,97
+ANY,ANY,ANY,ANY,ANY,Some College / Associate,White,Male,Native- Born in the United States,2618,17964,14.1,12.72,20582
+ANY,ANY,ANY,ANY,ANY,Some High School (No Diploma),Amer Indian Aleut or Eskimo,Female,Foreign born- Not a citizen of U S,0,1,0.0,0.0,1
+ANY,ANY,ANY,ANY,ANY,Some High School (No Diploma),Amer Indian Aleut or Eskimo,Female,Foreign born- U S citizen by naturalization,0,1,0.0,0.0,1
+ANY,ANY,ANY,ANY,ANY,Some High School (No Diploma),Amer Indian Aleut or Eskimo,Female,Native- Born in the United States,0,276,0.0,0.0,276
+ANY,ANY,ANY,ANY,ANY,Some High School (No Diploma),Amer Indian Aleut or Eskimo,Male,Foreign born- Not a citizen of U S,0,6,0.0,0.0,6
+ANY,ANY,ANY,ANY,ANY,Some High School (No Diploma),Amer Indian Aleut or Eskimo,Male,Foreign born- U S citizen by naturalization,0,1,0.0,0.0,1
+ANY,ANY,ANY,ANY,ANY,Some High School (No Diploma),Amer Indian Aleut or Eskimo,Male,Native- Born abroad of American Parent(s),0,3,0.0,0.0,3
+ANY,ANY,ANY,ANY,ANY,Some High School (No Diploma),Amer Indian Aleut or Eskimo,Male,Native- Born in the United States,3,236,0.02,1.26,239
+ANY,ANY,ANY,ANY,ANY,Some High School (No Diploma),Asian or Pacific Islander,Female,Foreign born- Not a citizen of U S,0,190,0.0,0.0,190
+ANY,ANY,ANY,ANY,ANY,Some High School (No Diploma),Asian or Pacific Islander,Female,Foreign born- U S citizen by naturalization,1,56,0.01,1.75,57
+ANY,ANY,ANY,ANY,ANY,Some High School (No Diploma),Asian or Pacific Islander,Female,Native- Born abroad of American Parent(s),0,15,0.0,0.0,15
+ANY,ANY,ANY,ANY,ANY,Some High School (No Diploma),Asian or Pacific Islander,Female,Native- Born in Puerto Rico or U S Outlying,0,3,0.0,0.0,3
+ANY,ANY,ANY,ANY,ANY,Some High School (No Diploma),Asian or Pacific Islander,Female,Native- Born in the United States,0,111,0.0,0.0,111
+ANY,ANY,ANY,ANY,ANY,Some High School (No Diploma),Asian or Pacific Islander,Male,Foreign born- Not a citizen of U S,3,185,0.02,1.6,188
+ANY,ANY,ANY,ANY,ANY,Some High School (No Diploma),Asian or Pacific Islander,Male,Foreign born- U S citizen by naturalization,2,57,0.01,3.39,59
+ANY,ANY,ANY,ANY,ANY,Some High School (No Diploma),Asian or Pacific Islander,Male,Native- Born abroad of American Parent(s),0,11,0.0,0.0,11
+ANY,ANY,ANY,ANY,ANY,Some High School (No Diploma),Asian or Pacific Islander,Male,Native- Born in Puerto Rico or U S Outlying,0,7,0.0,0.0,7
+ANY,ANY,ANY,ANY,ANY,Some High School (No Diploma),Asian or Pacific Islander,Male,Native- Born in the United States,1,112,0.01,0.88,113
+ANY,ANY,ANY,ANY,ANY,Some High School (No Diploma),Black,Female,Foreign born- Not a citizen of U S,0,108,0.0,0.0,108
+ANY,ANY,ANY,ANY,ANY,Some High School (No Diploma),Black,Female,Foreign born- U S citizen by naturalization,0,24,0.0,0.0,24
+ANY,ANY,ANY,ANY,ANY,Some High School (No Diploma),Black,Female,Native- Born abroad of American Parent(s),0,5,0.0,0.0,5
+ANY,ANY,ANY,ANY,ANY,Some High School (No Diploma),Black,Female,Native- Born in Puerto Rico or U S Outlying,0,11,0.0,0.0,11
+ANY,ANY,ANY,ANY,ANY,Some High School (No Diploma),Black,Female,Native- Born in the United States,9,2644,0.05,0.34,2653
+ANY,ANY,ANY,ANY,ANY,Some High School (No Diploma),Black,Male,Foreign born- Not a citizen of U S,0,81,0.0,0.0,81
+ANY,ANY,ANY,ANY,ANY,Some High School (No Diploma),Black,Male,Foreign born- U S citizen by naturalization,2,23,0.01,8.0,25
+ANY,ANY,ANY,ANY,ANY,Some High School (No Diploma),Black,Male,Native- Born abroad of American Parent(s),0,6,0.0,0.0,6
+ANY,ANY,ANY,ANY,ANY,Some High School (No Diploma),Black,Male,Native- Born in Puerto Rico or U S Outlying,0,5,0.0,0.0,5
+ANY,ANY,ANY,ANY,ANY,Some High School (No Diploma),Black,Male,Native- Born in the United States,24,1915,0.13,1.24,1939
+ANY,ANY,ANY,ANY,ANY,Some High School (No Diploma),Other,Female,Foreign born- Not a citizen of U S,0,148,0.0,0.0,148
+ANY,ANY,ANY,ANY,ANY,Some High School (No Diploma),Other,Female,Foreign born- U S citizen by naturalization,0,16,0.0,0.0,16
+ANY,ANY,ANY,ANY,ANY,Some High School (No Diploma),Other,Female,Native- Born abroad of American Parent(s),0,9,0.0,0.0,9
+ANY,ANY,ANY,ANY,ANY,Some High School (No Diploma),Other,Female,Native- Born in Puerto Rico or U S Outlying,0,41,0.0,0.0,41
+ANY,ANY,ANY,ANY,ANY,Some High School (No Diploma),Other,Female,Native- Born in the United States,0,192,0.0,0.0,192
+ANY,ANY,ANY,ANY,ANY,Some High School (No Diploma),Other,Male,Foreign born- Not a citizen of U S,0,143,0.0,0.0,143
+ANY,ANY,ANY,ANY,ANY,Some High School (No Diploma),Other,Male,Foreign born- U S citizen by naturalization,0,23,0.0,0.0,23
+ANY,ANY,ANY,ANY,ANY,Some High School (No Diploma),Other,Male,Native- Born abroad of American Parent(s),0,4,0.0,0.0,4
+ANY,ANY,ANY,ANY,ANY,Some High School (No Diploma),Other,Male,Native- Born in Puerto Rico or U S Outlying,0,36,0.0,0.0,36
+ANY,ANY,ANY,ANY,ANY,Some High School (No Diploma),Other,Male,Native- Born in the United States,1,156,0.01,0.64,157
+ANY,ANY,ANY,ANY,ANY,Some High School (No Diploma),White,Female,Foreign born- Not a citizen of U S,1,1073,0.01,0.09,1074
+ANY,ANY,ANY,ANY,ANY,Some High School (No Diploma),White,Female,Foreign born- U S citizen by naturalization,7,300,0.04,2.28,307
+ANY,ANY,ANY,ANY,ANY,Some High School (No Diploma),White,Female,Native- Born abroad of American Parent(s),0,115,0.0,0.0,115
+ANY,ANY,ANY,ANY,ANY,Some High School (No Diploma),White,Female,Native- Born in Puerto Rico or U S Outlying,0,208,0.0,0.0,208
+ANY,ANY,ANY,ANY,ANY,Some High School (No Diploma),White,Female,Native- Born in the United States,37,12476,0.2,0.3,12513
+ANY,ANY,ANY,ANY,ANY,Some High School (No Diploma),White,Male,Foreign born- Not a citizen of U S,13,1100,0.07,1.17,1113
+ANY,ANY,ANY,ANY,ANY,Some High School (No Diploma),White,Male,Foreign born- U S citizen by naturalization,3,224,0.02,1.32,227
+ANY,ANY,ANY,ANY,ANY,Some High School (No Diploma),White,Male,Native- Born abroad of American Parent(s),1,102,0.01,0.97,103
+ANY,ANY,ANY,ANY,ANY,Some High School (No Diploma),White,Male,Native- Born in Puerto Rico or U S Outlying,2,171,0.01,1.16,173
+ANY,ANY,ANY,ANY,ANY,Some High School (No Diploma),White,Male,Native- Born in the United States,210,11417,1.13,1.81,11627

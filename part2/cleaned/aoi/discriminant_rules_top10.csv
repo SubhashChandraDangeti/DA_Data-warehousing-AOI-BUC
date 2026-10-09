@@ -1,0 +1,11 @@
+industry,occupation,household,geography,age,education,race,sex,citizenship,count_target,count_contrast,t_weight_pct,d_weight_pct,total_count
+ANY,ANY,ANY,ANY,ANY,Advanced Degree,Asian or Pacific Islander,Male,Foreign born- U S citizen by naturalization,103,67,0.55,60.59,170
+ANY,ANY,ANY,ANY,ANY,Advanced Degree,White,Male,Foreign born- U S citizen by naturalization,168,130,0.9,56.38,298
+ANY,ANY,ANY,ANY,ANY,Advanced Degree,White,Male,Native- Born abroad of American Parent(s),49,44,0.26,52.69,93
+ANY,ANY,ANY,ANY,ANY,Advanced Degree,White,Male,Native- Born in the United States,3526,3228,18.99,52.21,6754
+ANY,ANY,ANY,ANY,ANY,Advanced Degree,Asian or Pacific Islander,Male,Native- Born in the United States,22,22,0.12,50.0,44
+ANY,ANY,ANY,ANY,ANY,Advanced Degree,Black,Male,Native- Born in the United States,87,141,0.47,38.16,228
+ANY,ANY,ANY,ANY,ANY,Advanced Degree,Asian or Pacific Islander,Male,Foreign born- Not a citizen of U S,93,179,0.5,34.19,272
+ANY,ANY,ANY,ANY,ANY,Advanced Degree,Black,Male,Foreign born- Not a citizen of U S,14,27,0.08,34.15,41
+ANY,ANY,ANY,ANY,ANY,Bachelor's Degree,White,Male,Foreign born- U S citizen by naturalization,117,234,0.63,33.33,351
+ANY,ANY,ANY,ANY,ANY,Bachelor's Degree,White,Male,Native- Born in the United States,3985,8305,21.46,32.42,12290

@@ -1,0 +1,19 @@
+level0_value,level1_value,level2_value
+Children,Not Applicable,ANY
+Less than 1st grade,Below High School,ANY
+1st 2nd 3rd or 4th grade,Below High School,ANY
+5th or 6th grade,Below High School,ANY
+7th and 8th grade,Below High School,ANY
+9th grade,Some High School (No Diploma),ANY
+10th grade,Some High School (No Diploma),ANY
+11th grade,Some High School (No Diploma),ANY
+12th grade no diploma,Some High School (No Diploma),ANY
+High school graduate,High School Graduate,ANY
+Some college but no degree,Some College / Associate,ANY
+Associates degree-academic program,Some College / Associate,ANY
+Associates degree-occup /vocational,Some College / Associate,ANY
+Bachelors degree(BA AB BS),Bachelor's Degree,ANY
+Masters degree(MA MS MEng MEd MSW MBA),Advanced Degree,ANY
+Prof school degree (MD DDS DVM LLB JD),Advanced Degree,ANY
+Doctorate degree(PhD EdD),Advanced Degree,ANY
+

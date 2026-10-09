@@ -1,0 +1,58 @@
+[
+  {
+    "test": "count_4dims_512kib",
+    "rows": 299285,
+    "dimensions": 4,
+    "measure": "COUNT",
+    "minsup": 1000,
+    "budget_bytes": 524288,
+    "cells": 196,
+    "in_memory_sec": 0.18039870000211522,
+    "paged_sec": 44.25930050003808,
+    "workspace_bound_bytes": 524160,
+    "spill_files": 7692,
+    "status": "PASS"
+  },
+  {
+    "test": "count_4dims_4mib",
+    "rows": 299285,
+    "dimensions": 4,
+    "measure": "COUNT",
+    "minsup": 1000,
+    "budget_bytes": 4194304,
+    "cells": 196,
+    "in_memory_sec": 0.20024999999441206,
+    "paged_sec": 13.56146080000326,
+    "workspace_bound_bytes": 4194240,
+    "spill_files": 1097,
+    "status": "PASS"
+  },
+  {
+    "test": "sum_3dims",
+    "rows": 299285,
+    "dimensions": 3,
+    "measure": "instance_weight",
+    "minsup": 5000000,
+    "budget_bytes": 1048576,
+    "cells": 34,
+    "in_memory_sec": 0.07177969999611378,
+    "paged_sec": 10.342104299983475,
+    "workspace_bound_bytes": 1048576,
+    "spill_files": 1221,
+    "status": "PASS"
+  },
+  {
+    "test": "count_6dims",
+    "rows": 299285,
+    "dimensions": 6,
+    "measure": "COUNT",
+    "minsup": 500,
+    "budget_bytes": 4194304,
+    "cells": 2164,
+    "in_memory_sec": 1.0336905000149272,
+    "paged_sec": 78.8138014000142,
+    "workspace_bound_bytes": 4194176,
+    "spill_files": 9368,
+    "status": "PASS"
+  }
+]

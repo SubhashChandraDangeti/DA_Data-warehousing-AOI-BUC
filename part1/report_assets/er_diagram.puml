@@ -1,0 +1,132 @@
+@startuml
+title Snowflake Schema — Brazilian Marketplace Data Warehouse
+
+skinparam linetype ortho
+hide circle
+hide empty members
+
+entity dim_region {
+  * region_id : INTEGER
+  --
+  region_name : VARCHAR
+}
+
+entity dim_state {
+  * state_id : INTEGER
+  --
+  state_code : VARCHAR
+  state_name : VARCHAR
+  # region_id : INTEGER
+}
+
+entity dim_city {
+  * city_id : INTEGER
+  --
+  city_name : VARCHAR
+  # state_id : INTEGER
+}
+
+entity dim_zip_code {
+  * zip_code_prefix : INTEGER
+  --
+  # city_id : INTEGER
+  lat : DECIMAL
+  lng : DECIMAL
+}
+
+entity dim_category {
+  * category_id : INTEGER
+  --
+  category_name : VARCHAR
+  category_name_english : VARCHAR
+}
+
+entity dim_product {
+  * product_id : VARCHAR
+  --
+  # category_id : INTEGER
+  product_weight_g : DECIMAL
+  product_length_cm : DECIMAL
+  product_height_cm : DECIMAL
+  product_width_cm : DECIMAL
+}
+
+entity dim_seller {
+  * seller_id : VARCHAR
+  --
+  # zip_code_prefix : INTEGER
+}
+
+entity dim_seller_acquisition {
+  * seller_id : VARCHAR
+  --
+  lead_origin : VARCHAR
+  business_segment : VARCHAR
+  won_date : TIMESTAMP
+}
+
+entity dim_customer {
+  * customer_id : VARCHAR
+  --
+  customer_unique_id : VARCHAR
+  # zip_code_prefix : INTEGER
+}
+
+entity dim_date {
+  * date_key : INTEGER
+  --
+  full_date : DATE
+  month : INTEGER
+  quarter : INTEGER
+  year : INTEGER
+}
+
+entity dim_order {
+  * order_id : VARCHAR
+  --
+  # order_purchase_date_key : INTEGER
+  order_status : VARCHAR
+  order_delivered_customer_date : TIMESTAMP
+  order_estimated_delivery_date : TIMESTAMP
+  delivery_status : VARCHAR
+}
+
+entity dim_review {
+  * review_key : BIGINT
+  --
+  # order_id : VARCHAR
+  review_id : VARCHAR
+  review_score : INTEGER
+}
+
+entity fact_order_items {
+  * order_item_key : BIGINT
+  --
+  # order_id : VARCHAR
+  # product_id : VARCHAR
+  # seller_id : VARCHAR
+  # customer_id : VARCHAR
+  # review_key : BIGINT <<nullable>>
+  price : DECIMAL
+  freight_value : DECIMAL
+  revenue : DECIMAL
+  total_payment_value : DECIMAL
+}
+
+dim_region        ||--o{ dim_state             : region_id
+dim_state         ||--o{ dim_city              : state_id
+dim_city          ||--o{ dim_zip_code          : city_id
+dim_zip_code      ||--o{ dim_seller            : zip_code_prefix
+dim_zip_code      ||--o{ dim_customer          : zip_code_prefix
+dim_seller        ||--o| dim_seller_acquisition: seller_id
+dim_category      ||--o{ dim_product           : category_id
+dim_date          ||--o{ dim_order             : order_purchase_date_key
+dim_order         ||--o| dim_review            : order_id
+
+dim_product       ||--o{ fact_order_items      : product_id
+dim_seller        ||--o{ fact_order_items      : seller_id
+dim_customer      ||--o{ fact_order_items      : customer_id
+dim_order         ||--o{ fact_order_items      : order_id
+dim_review        |o--o{ fact_order_items      : review_key
+
+@enduml

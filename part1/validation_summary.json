@@ -1,0 +1,11 @@
+{
+  "fact_order_items": 112650,
+  "dim_order": 99441,
+  "dim_customer": 99441,
+  "dim_product": 32951,
+  "dim_seller": 3095,
+  "dim_seller_acquisition": 380,
+  "revenue": "15843553.24",
+  "missing_review_items": 942,
+  "undelivered_orders": 2965
+}

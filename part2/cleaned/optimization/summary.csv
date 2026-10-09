@@ -1,0 +1,5 @@
+config,ordering,runtime_median_sec,examined,cells
+in_memory_8dims,optimized,2.1794413999887183,38213,10235
+in_memory_8dims,original,3.542528799996944,170737,10235
+paged_6dims,optimized,62.64862669998547,10159,2853
+paged_6dims,original,190.7514336000022,67040,2853

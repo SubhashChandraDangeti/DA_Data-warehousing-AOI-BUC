@@ -1,0 +1,20 @@
+column,role,n_categories
+age,dimension,91
+education,dimension,17
+class_of_worker,dimension,9
+marital_status,dimension,7
+race,dimension,5
+sex,dimension,2
+hispanic_origin,dimension,10
+industry_code_major,dimension,24
+occupation_code_major,dimension,15
+household_summary,dimension,8
+region_prev_residence,dimension,6
+tax_filer_status,dimension,6
+citizenship,dimension,5
+employment_status,dimension,8
+year,dimension,2
+industry_code_detailed,hierarchy-check for industry_code_major,52
+occupation_code_detailed,hierarchy-check for occupation_code_major,47
+household_family_status,hierarchy-check for household_summary,38
+state_prev_residence,hierarchy-check for region_prev_residence,51

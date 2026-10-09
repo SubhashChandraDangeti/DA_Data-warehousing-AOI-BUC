@@ -1,0 +1,39 @@
+level0_value,level1_value,level2_value
+Child 18+ ever marr Not in a subfamily,Child 18 or older,ANY
+Child 18+ ever marr RP of subfamily,Child 18 or older,ANY
+Child 18+ never marr Not in a subfamily,Child 18 or older,ANY
+Child 18+ never marr RP of subfamily,Child 18 or older,ANY
+Child 18+ spouse of subfamily RP,Child 18 or older,ANY
+Child <18 ever marr RP of subfamily,Child under 18 ever married,ANY
+Child <18 ever marr not in subfamily,Child under 18 ever married,ANY
+Child <18 never marr RP of subfamily,Child under 18 never married,ANY
+Child <18 never marr not in subfamily,Child under 18 never married,ANY
+Child <18 spouse of subfamily RP,Child under 18 ever married,ANY
+Child under 18 of RP of unrel subfamily,Nonrelative of householder,ANY
+Grandchild 18+ ever marr RP of subfamily,Other relative of householder,ANY
+Grandchild 18+ ever marr not in subfamily,Other relative of householder,ANY
+Grandchild 18+ never marr RP of subfamily,Other relative of householder,ANY
+Grandchild 18+ never marr not in subfamily,Other relative of householder,ANY
+Grandchild 18+ spouse of subfamily RP,Other relative of householder,ANY
+Grandchild <18 ever marr not in subfamily,Other relative of householder,ANY
+Grandchild <18 never marr RP of subfamily,Other relative of householder,ANY
+Grandchild <18 never marr child of subfamily RP,Other relative of householder,ANY
+Grandchild <18 never marr not in subfamily,Other relative of householder,ANY
+Householder,Householder,ANY
+In group quarters,Group Quarters- Secondary individual,ANY
+Nonfamily householder,Householder,ANY
+Other Rel 18+ ever marr RP of subfamily,Other relative of householder,ANY
+Other Rel 18+ ever marr not in subfamily,Other relative of householder,ANY
+Other Rel 18+ never marr RP of subfamily,Other relative of householder,ANY
+Other Rel 18+ never marr not in subfamily,Other relative of householder,ANY
+Other Rel 18+ spouse of subfamily RP,Other relative of householder,ANY
+Other Rel <18 ever marr RP of subfamily,Other relative of householder,ANY
+Other Rel <18 ever marr not in subfamily,Other relative of householder,ANY
+Other Rel <18 never marr child of subfamily RP,Other relative of householder,ANY
+Other Rel <18 never marr not in subfamily,Other relative of householder,ANY
+Other Rel <18 never married RP of subfamily,Other relative of householder,ANY
+Other Rel <18 spouse of subfamily RP,Other relative of householder,ANY
+RP of unrelated subfamily,Nonrelative of householder,ANY
+Secondary individual,Nonrelative of householder,ANY
+Spouse of RP of unrelated subfamily,Nonrelative of householder,ANY
+Spouse of householder,Spouse of householder,ANY

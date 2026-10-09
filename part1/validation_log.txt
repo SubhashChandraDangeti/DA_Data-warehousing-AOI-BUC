@@ -1,0 +1,63 @@
+['categories.csv', 'closed_deals.csv', 'customers.csv', 'geolocation.csv', 'leads.csv', 'orders.csv', 'order_items.csv', 'order_payments.csv', 'order_reviews.csv', 'products.csv', 'sellers.csv']
+Cleaning categories.csv ...
+Cleaning geolocation.csv ...
+Cleaning customers.csv ...
+Cleaning sellers.csv ...
+Cleaning products.csv ...
+Cleaning orders.csv ...
+Cleaning order_items.csv ...
+Cleaning order_payments.csv ...
+Cleaning order_reviews.csv ...
+Cleaning leads.csv + closed_deals.csv -> seller_acquisition ...
+Created seed/state_region_mapping.csv
+Copying state_region_mapping.csv ...
+Patching geolocation_clean.csv for missing customer/seller zip prefixes ...
+Patching categories_clean.csv for product categories missing a translation ...
+
+--- Sanity checks ---
+customers_clean: 99441 rows
+sellers_clean: 3095 rows
+products_clean: 32951 rows
+orders_clean: 99441 rows
+order_items_clean: 112650 rows
+order_payments_clean: 99440 rows
+order_reviews_clean: 98673 rows
+geolocation_clean: 19174 rows
+seller_acquisition_clean: 842 rows
+
+orders.csv row count preserved: 99441 raw -> 99441 cleaned (OK)
+
+Done. Cleaned files written to: cleaned
+Schema created.
+dim_region loaded: 5
+dim_state loaded: 27
+dim_city loaded: 6322
+dim_zip_code loaded: 19174
+dim_category loaded: 74
+dim_product loaded: 32951
+dim_seller loaded: 3095
+dim_seller_acquisition loaded: 380
+dim_customer loaded: 99441
+dim_date loaded: 800
+dim_order loaded: 99441
+dim_review loaded: 98673
+fact_order_items loaded: 112650
+
+--- Sanity checks ---
+order_items_clean rows: 112650 | fact_order_items rows: 112650 (OK - no items dropped)
+Orphan product FKs: 0 | Orphan seller FKs: 0 | Orphan customer FKs: 0
+Fact rows with no review: 942 | no payment: 3 | undelivered order: 2454
+(These being > 0 is CORRECT - it confirms such rows were preserved, not dropped.)
+
+ETL load complete. Warehouse saved to: warehouse.duckdb
+Q1: 37 rows
+Q2: 3 rows
+Q3: 74 rows
+Q4: 361 rows
+Q5: 586 rows
+Q6: 5 rows
+Q7: 22 rows
+Q8: 935 rows
+Q9: 3 rows
+Q10: 10 rows
+{'fact_order_items': 112650, 'dim_order': 99441, 'dim_customer': 99441, 'dim_product': 32951, 'dim_seller': 3095, 'dim_seller_acquisition': 380, 'revenue': '15843553.24', 'missing_review_items': 942, 'undelivered_orders': 2965}

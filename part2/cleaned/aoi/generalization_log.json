@@ -1,0 +1,18 @@
+[
+  "industry: generalized to level2 = ANY (was still > threshold 5 at level1)",
+  "occupation: generalized to level2 = ANY (was still > threshold 5 at level1)",
+  "household: generalized to level2 = ANY (was still > threshold 5 at level1)",
+  "geography: generalized to level2 = ANY (was still > threshold 5 at level1)",
+  "age: generalized to level1 (7 values, within threshold 7)",
+  "education: generalized to level1 (7 values, within threshold 7)",
+  "class_of_worker: REMOVED (no hierarchy, 9 values > threshold 5)",
+  "marital_status: REMOVED (no hierarchy, 7 values > threshold 5)",
+  "race: kept as-is (5 values, within threshold 5)",
+  "sex: kept as-is (2 values, within threshold 5)",
+  "tax_filer_status: REMOVED (no hierarchy, 6 values > threshold 5)",
+  "citizenship: kept as-is (5 values, within threshold 5)",
+  "employment_status: REMOVED (no hierarchy, 8 values > threshold 5)",
+  "After per-attribute generalization: 9 attributes kept, 1486 distinct tuples",
+  "[relation-threshold] generalized 'age' to ANY",
+  "Final generalized relation: 9 attributes, 328 distinct tuples"
+]

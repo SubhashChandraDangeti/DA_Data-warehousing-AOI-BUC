@@ -1,0 +1,11 @@
+industry,occupation,household,geography,age,education,race,sex,citizenship,count_target,count_contrast,t_weight_pct,d_weight_pct,total_count
+ANY,ANY,ANY,ANY,ANY,Bachelor's Degree,White,Male,Native- Born in the United States,3985,8305,21.46,32.42,12290
+ANY,ANY,ANY,ANY,ANY,Advanced Degree,White,Male,Native- Born in the United States,3526,3228,18.99,52.21,6754
+ANY,ANY,ANY,ANY,ANY,Some College / Associate,White,Male,Native- Born in the United States,2618,17964,14.1,12.72,20582
+ANY,ANY,ANY,ANY,ANY,High School Graduate,White,Male,Native- Born in the United States,2080,23593,11.2,8.1,25673
+ANY,ANY,ANY,ANY,ANY,Bachelor's Degree,White,Female,Native- Born in the United States,1067,10769,5.75,9.01,11836
+ANY,ANY,ANY,ANY,ANY,Advanced Degree,White,Female,Native- Born in the United States,1044,3810,5.62,21.51,4854
+ANY,ANY,ANY,ANY,ANY,Some College / Associate,White,Female,Native- Born in the United States,655,23706,3.53,2.69,24361
+ANY,ANY,ANY,ANY,ANY,High School Graduate,White,Female,Native- Born in the United States,409,31084,2.2,1.3,31493
+ANY,ANY,ANY,ANY,ANY,Some High School (No Diploma),White,Male,Native- Born in the United States,210,11417,1.13,1.81,11627
+ANY,ANY,ANY,ANY,ANY,Advanced Degree,White,Male,Foreign born- U S citizen by naturalization,168,130,0.9,56.38,298

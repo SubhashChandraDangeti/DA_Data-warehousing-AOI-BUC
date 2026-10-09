@@ -1,0 +1,936 @@
+region,category,year,total_revenue
+Central-West,artes,2017,6975.82
+Central-West,artes,All Years,6975.82
+Central-West,audio,2017,835.46
+Central-West,audio,2018,716.16
+Central-West,audio,All Years,1551.62
+Central-West,automotivo,2017,4423.11
+Central-West,automotivo,2018,6108.01
+Central-West,automotivo,All Years,10531.12
+Central-West,bebes,2017,5582.36
+Central-West,bebes,2018,5191.04
+Central-West,bebes,All Years,10773.4
+Central-West,bebidas,2017,187.52
+Central-West,bebidas,2018,447.16
+Central-West,bebidas,All Years,634.68
+Central-West,beleza_saude,2016,346.84
+Central-West,beleza_saude,2017,20355.99
+Central-West,beleza_saude,2018,12086.42
+Central-West,beleza_saude,All Years,32789.25
+Central-West,brinquedos,2017,5687.43
+Central-West,brinquedos,2018,1632.55
+Central-West,brinquedos,All Years,7319.98
+Central-West,cama_mesa_banho,2017,1558.92
+Central-West,cama_mesa_banho,2018,4666.74
+Central-West,cama_mesa_banho,All Years,6225.66
+Central-West,cine_foto,2018,686.34
+Central-West,cine_foto,All Years,686.34
+Central-West,climatizacao,2017,1686.35
+Central-West,climatizacao,2018,2796.48
+Central-West,climatizacao,All Years,4482.83
+Central-West,consoles_games,2017,255.66
+Central-West,consoles_games,2018,913.2
+Central-West,consoles_games,All Years,1168.86
+Central-West,construcao_ferramentas_construcao,2017,264.24
+Central-West,construcao_ferramentas_construcao,2018,1243.03
+Central-West,construcao_ferramentas_construcao,All Years,1507.27
+Central-West,construcao_ferramentas_ferramentas,2018,546.78
+Central-West,construcao_ferramentas_ferramentas,All Years,546.78
+Central-West,construcao_ferramentas_seguranca,2017,1029.57
+Central-West,construcao_ferramentas_seguranca,2018,1578.75
+Central-West,construcao_ferramentas_seguranca,All Years,2608.32
+Central-West,cool_stuff,2016,301.69
+Central-West,cool_stuff,2017,8669.64
+Central-West,cool_stuff,2018,5090.36
+Central-West,cool_stuff,All Years,14061.69
+Central-West,dvds_blu_ray,2017,1403.08
+Central-West,dvds_blu_ray,2018,671.43
+Central-West,dvds_blu_ray,All Years,2074.51
+Central-West,eletrodomesticos,2018,553.97
+Central-West,eletrodomesticos,All Years,553.97
+Central-West,eletrodomesticos_2,2018,2053.3
+Central-West,eletrodomesticos_2,All Years,2053.3
+Central-West,eletronicos,2017,558.53
+Central-West,eletronicos,2018,3890.58
+Central-West,eletronicos,All Years,4449.11
+Central-West,eletroportateis,2017,107.37
+Central-West,eletroportateis,2018,1550.39
+Central-West,eletroportateis,All Years,1657.76
+Central-West,esporte_lazer,2017,7415.41
+Central-West,esporte_lazer,2018,10554.34
+Central-West,esporte_lazer,All Years,17969.75
+Central-West,fashion_bolsas_e_acessorios,2017,3432.79
+Central-West,fashion_bolsas_e_acessorios,2018,6822.86
+Central-West,fashion_bolsas_e_acessorios,All Years,10255.65
+Central-West,fashion_calcados,2017,84.89
+Central-West,fashion_calcados,All Years,84.89
+Central-West,ferramentas_jardim,2016,419.06
+Central-West,ferramentas_jardim,2017,5681.86
+Central-West,ferramentas_jardim,2018,532.1
+Central-West,ferramentas_jardim,All Years,6633.02
+Central-West,informatica_acessorios,2017,9421.37
+Central-West,informatica_acessorios,2018,14932.33
+Central-West,informatica_acessorios,All Years,24353.7
+Central-West,livros_interesse_geral,2017,247.15
+Central-West,livros_interesse_geral,All Years,247.15
+Central-West,malas_acessorios,2017,3363.77
+Central-West,malas_acessorios,2018,896.19
+Central-West,malas_acessorios,All Years,4259.96
+Central-West,market_place,2016,98.55
+Central-West,market_place,All Years,98.55
+Central-West,moveis_colchao_e_estofado,2017,546.62
+Central-West,moveis_colchao_e_estofado,2018,266.18
+Central-West,moveis_colchao_e_estofado,All Years,812.8
+Central-West,moveis_decoracao,2017,3518.93
+Central-West,moveis_decoracao,2018,216.47
+Central-West,moveis_decoracao,All Years,3735.4
+Central-West,moveis_quarto,2018,468.94
+Central-West,moveis_quarto,All Years,468.94
+Central-West,moveis_sala,2017,555.99
+Central-West,moveis_sala,2018,242.1
+Central-West,moveis_sala,All Years,798.09
+Central-West,musica,2018,92.17
+Central-West,musica,All Years,92.17
+Central-West,papelaria,2017,522.94
+Central-West,papelaria,2018,5332.93
+Central-West,papelaria,All Years,5855.87
+Central-West,perfumaria,2017,10009.47
+Central-West,perfumaria,2018,5940.89
+Central-West,perfumaria,All Years,15950.36
+Central-West,pet_shop,2018,262.83
+Central-West,pet_shop,All Years,262.83
+Central-West,relogios_presentes,2017,138.12
+Central-West,relogios_presentes,All Years,138.12
+Central-West,telefonia,2016,47.54
+Central-West,telefonia,2017,4253.41
+Central-West,telefonia,2018,846.21
+Central-West,telefonia,All Years,5147.16
+Central-West,telefonia_fixa,2017,312.82
+Central-West,telefonia_fixa,2018,1189.0
+Central-West,telefonia_fixa,All Years,1501.82
+Central-West,unknown_category,2017,931.87
+Central-West,unknown_category,2018,2800.91
+Central-West,unknown_category,All Years,3732.78
+Central-West,utilidades_domesticas,2017,1584.53
+Central-West,utilidades_domesticas,2018,10078.32
+Central-West,utilidades_domesticas,All Years,11662.85
+Central-West,All Categories,2016,1213.68
+Central-West,All Categories,2017,111602.99
+Central-West,All Categories,2018,113897.46
+Central-West,All Categories,All Years,226714.13
+North,automotivo,2017,5115.36
+North,automotivo,2018,359.62
+North,automotivo,All Years,5474.98
+North,livros_tecnicos,2016,299.84
+North,livros_tecnicos,All Years,299.84
+North,telefonia,2017,1258.8
+North,telefonia,All Years,1258.8
+North,All Categories,2016,299.84
+North,All Categories,2017,6374.16
+North,All Categories,2018,359.62
+North,All Categories,All Years,7033.62
+Northeast,agro_industria_e_comercio,2018,515.08
+Northeast,agro_industria_e_comercio,All Years,515.08
+Northeast,alimentos,2017,3361.67
+Northeast,alimentos,2018,173.49
+Northeast,alimentos,All Years,3535.16
+Northeast,alimentos_bebidas,2017,4971.31
+Northeast,alimentos_bebidas,2018,440.85
+Northeast,alimentos_bebidas,All Years,5412.16
+Northeast,audio,2017,45.7
+Northeast,audio,All Years,45.7
+Northeast,automotivo,2017,1850.57
+Northeast,automotivo,2018,27717.07
+Northeast,automotivo,All Years,29567.64
+Northeast,bebes,2018,1725.78
+Northeast,bebes,All Years,1725.78
+Northeast,bebidas,2018,161.37
+Northeast,bebidas,All Years,161.37
+Northeast,beleza_saude,2017,5783.12
+Northeast,beleza_saude,2018,61903.59
+Northeast,beleza_saude,All Years,67686.71
+Northeast,brinquedos,2017,144.56
+Northeast,brinquedos,2018,637.67
+Northeast,brinquedos,All Years,782.23
+Northeast,cama_mesa_banho,2017,437.35
+Northeast,cama_mesa_banho,2018,1284.87
+Northeast,cama_mesa_banho,All Years,1722.22
+Northeast,casa_conforto,2017,124.35
+Northeast,casa_conforto,All Years,124.35
+Northeast,consoles_games,2017,1832.19
+Northeast,consoles_games,All Years,1832.19
+Northeast,construcao_ferramentas_jardim,2017,2516.96
+Northeast,construcao_ferramentas_jardim,All Years,2516.96
+Northeast,cool_stuff,2016,90.23
+Northeast,cool_stuff,2017,320.1
+Northeast,cool_stuff,2018,3756.06
+Northeast,cool_stuff,All Years,4166.39
+Northeast,eletronicos,2018,1059.9
+Northeast,eletronicos,All Years,1059.9
+Northeast,eletroportateis,2018,1538.27
+Northeast,eletroportateis,All Years,1538.27
+Northeast,esporte_lazer,2017,6527.52
+Northeast,esporte_lazer,2018,3869.75
+Northeast,esporte_lazer,All Years,10397.27
+Northeast,fashion_bolsas_e_acessorios,2017,757.95
+Northeast,fashion_bolsas_e_acessorios,2018,1413.88
+Northeast,fashion_bolsas_e_acessorios,All Years,2171.83
+Northeast,ferramentas_jardim,2018,2818.74
+Northeast,ferramentas_jardim,All Years,2818.74
+Northeast,industria_comercio_e_negocios,2018,397.13
+Northeast,industria_comercio_e_negocios,All Years,397.13
+Northeast,informatica_acessorios,2016,176.85
+Northeast,informatica_acessorios,2017,7819.44
+Northeast,informatica_acessorios,2018,78023.97
+Northeast,informatica_acessorios,All Years,86020.26
+Northeast,livros_interesse_geral,2017,422.7
+Northeast,livros_interesse_geral,2018,549.22
+Northeast,livros_interesse_geral,All Years,971.92
+Northeast,livros_tecnicos,2017,105.39
+Northeast,livros_tecnicos,2018,81.81
+Northeast,livros_tecnicos,All Years,187.2
+Northeast,moveis_decoracao,2017,7987.54
+Northeast,moveis_decoracao,2018,2171.69
+Northeast,moveis_decoracao,All Years,10159.23
+Northeast,moveis_quarto,2018,499.78
+Northeast,moveis_quarto,All Years,499.78
+Northeast,moveis_sala,2017,224.75
+Northeast,moveis_sala,All Years,224.75
+Northeast,pcs,2017,152865.17
+Northeast,pcs,2018,25812.56
+Northeast,pcs,All Years,178677.73
+Northeast,pet_shop,2017,103.29
+Northeast,pet_shop,2018,71.67
+Northeast,pet_shop,All Years,174.96
+Northeast,relogios_presentes,2017,10132.9
+Northeast,relogios_presentes,2018,8579.04
+Northeast,relogios_presentes,All Years,18711.94
+Northeast,telefonia,2017,52630.47
+Northeast,telefonia,2018,28763.49
+Northeast,telefonia,All Years,81393.96
+Northeast,telefonia_fixa,2017,416.36
+Northeast,telefonia_fixa,2018,1801.1
+Northeast,telefonia_fixa,All Years,2217.46
+Northeast,unknown_category,2017,513.39
+Northeast,unknown_category,All Years,513.39
+Northeast,utilidades_domesticas,2017,366.29
+Northeast,utilidades_domesticas,2018,212.38
+Northeast,utilidades_domesticas,All Years,578.67
+Northeast,All Categories,2016,267.08
+Northeast,All Categories,2017,262261.04
+Northeast,All Categories,2018,255980.21
+Northeast,All Categories,All Years,518508.33
+South,agro_industria_e_comercio,2017,14808.8
+South,agro_industria_e_comercio,2018,29639.88
+South,agro_industria_e_comercio,All Years,44448.68
+South,alimentos,2016,96.23
+South,alimentos,2017,55.0
+South,alimentos,2018,596.71
+South,alimentos,All Years,747.94
+South,alimentos_bebidas,2017,22.52
+South,alimentos_bebidas,2018,359.01
+South,alimentos_bebidas,All Years,381.53
+South,artes,2017,1369.24
+South,artes,2018,712.12
+South,artes,All Years,2081.36
+South,artes_e_artesanato,2018,621.04
+South,artes_e_artesanato,All Years,621.04
+South,artigos_de_festas,2017,1426.65
+South,artigos_de_festas,2018,1034.28
+South,artigos_de_festas,All Years,2460.93
+South,artigos_de_natal,2017,803.22
+South,artigos_de_natal,2018,1400.54
+South,artigos_de_natal,All Years,2203.76
+South,audio,2017,199.98
+South,audio,2018,472.72
+South,audio,All Years,672.7
+South,automotivo,2016,391.84
+South,automotivo,2017,51136.65
+South,automotivo,2018,55595.33
+South,automotivo,All Years,107123.82
+South,bebes,2016,218.65
+South,bebes,2017,30633.82
+South,bebes,2018,35978.8
+South,bebes,All Years,66831.27
+South,bebidas,2018,4010.84
+South,bebidas,All Years,4010.84
+South,beleza_saude,2016,1601.35
+South,beleza_saude,2017,110327.49
+South,beleza_saude,2018,154880.68
+South,beleza_saude,All Years,266809.52
+South,brinquedos,2016,250.33
+South,brinquedos,2017,49435.42
+South,brinquedos,2018,26613.99
+South,brinquedos,All Years,76299.74
+South,cama_mesa_banho,2017,38559.65
+South,cama_mesa_banho,2018,72484.87
+South,cama_mesa_banho,All Years,111044.52
+South,casa_conforto,2017,214.19
+South,casa_conforto,2018,382.98
+South,casa_conforto,All Years,597.17
+South,casa_construcao,2017,4982.79
+South,casa_construcao,2018,7688.54
+South,casa_construcao,All Years,12671.33
+South,cine_foto,2017,676.01
+South,cine_foto,2018,2761.67
+South,cine_foto,All Years,3437.68
+South,climatizacao,2016,1585.91
+South,climatizacao,2017,4958.94
+South,climatizacao,2018,4044.53
+South,climatizacao,All Years,10589.38
+South,consoles_games,2016,726.86
+South,consoles_games,2017,18905.45
+South,consoles_games,2018,32952.5
+South,consoles_games,All Years,52584.81
+South,construcao_ferramentas_construcao,2017,3416.42
+South,construcao_ferramentas_construcao,2018,23709.6
+South,construcao_ferramentas_construcao,All Years,27126.02
+South,construcao_ferramentas_ferramentas,2017,3005.72
+South,construcao_ferramentas_ferramentas,2018,1458.33
+South,construcao_ferramentas_ferramentas,All Years,4464.05
+South,construcao_ferramentas_iluminacao,2017,66.78
+South,construcao_ferramentas_iluminacao,2018,5347.01
+South,construcao_ferramentas_iluminacao,All Years,5413.79
+South,construcao_ferramentas_jardim,2017,1117.03
+South,construcao_ferramentas_jardim,2018,2687.14
+South,construcao_ferramentas_jardim,All Years,3804.17
+South,construcao_ferramentas_seguranca,2017,1694.57
+South,construcao_ferramentas_seguranca,2018,9769.11
+South,construcao_ferramentas_seguranca,All Years,11463.68
+South,cool_stuff,2016,372.77
+South,cool_stuff,2017,74402.63
+South,cool_stuff,2018,48261.37
+South,cool_stuff,All Years,123036.77
+South,dvds_blu_ray,2017,1146.81
+South,dvds_blu_ray,All Years,1146.81
+South,eletrodomesticos,2017,1180.34
+South,eletrodomesticos,2018,1272.12
+South,eletrodomesticos,All Years,2452.46
+South,eletrodomesticos_2,2017,13673.72
+South,eletrodomesticos_2,2018,10036.38
+South,eletrodomesticos_2,All Years,23710.1
+South,eletronicos,2016,1227.78
+South,eletronicos,2017,17057.64
+South,eletronicos,2018,24867.94
+South,eletronicos,All Years,43153.36
+South,eletroportateis,2017,21727.78
+South,eletroportateis,2018,28786.19
+South,eletroportateis,All Years,50513.97
+South,esporte_lazer,2016,661.86
+South,esporte_lazer,2017,157998.49
+South,esporte_lazer,2018,145668.13
+South,esporte_lazer,All Years,304328.48
+South,fashion_bolsas_e_acessorios,2016,19.62
+South,fashion_bolsas_e_acessorios,2017,10999.3
+South,fashion_bolsas_e_acessorios,2018,6602.28
+South,fashion_bolsas_e_acessorios,All Years,17621.2
+South,fashion_calcados,2017,4334.92
+South,fashion_calcados,2018,1016.45
+South,fashion_calcados,All Years,5351.37
+South,fashion_esporte,2017,629.02
+South,fashion_esporte,All Years,629.02
+South,fashion_roupa_feminina,2017,540.02
+South,fashion_roupa_feminina,All Years,540.02
+South,fashion_roupa_infanto_juvenil,2017,54.09
+South,fashion_roupa_infanto_juvenil,2018,96.56
+South,fashion_roupa_infanto_juvenil,All Years,150.65
+South,fashion_roupa_masculina,2017,5442.56
+South,fashion_roupa_masculina,2018,1856.36
+South,fashion_roupa_masculina,All Years,7298.92
+South,ferramentas_jardim,2016,767.78
+South,ferramentas_jardim,2017,77581.83
+South,ferramentas_jardim,2018,47825.27
+South,ferramentas_jardim,All Years,126174.88
+South,fraldas_higiene,2018,158.97
+South,fraldas_higiene,All Years,158.97
+South,industria_comercio_e_negocios,2017,4436.8
+South,industria_comercio_e_negocios,2018,8792.58
+South,industria_comercio_e_negocios,All Years,13229.38
+South,informatica_acessorios,2016,159.59
+South,informatica_acessorios,2017,118849.93
+South,informatica_acessorios,2018,188859.31
+South,informatica_acessorios,All Years,307868.83
+South,instrumentos_musicais,2017,25635.76
+South,instrumentos_musicais,2018,57275.81
+South,instrumentos_musicais,All Years,82911.57
+South,la_cuisine,2017,1350.54
+South,la_cuisine,2018,890.85
+South,la_cuisine,All Years,2241.39
+South,livros_interesse_geral,2017,9459.74
+South,livros_interesse_geral,2018,4562.93
+South,livros_interesse_geral,All Years,14022.67
+South,livros_tecnicos,2017,546.65
+South,livros_tecnicos,2018,968.3
+South,livros_tecnicos,All Years,1514.95
+South,malas_acessorios,2017,5587.47
+South,malas_acessorios,2018,21238.19
+South,malas_acessorios,All Years,26825.66
+South,market_place,2017,6334.16
+South,market_place,2018,1700.84
+South,market_place,All Years,8035.0
+South,moveis_cozinha_area_de_servico_jantar_e_jardim,2017,6115.84
+South,moveis_cozinha_area_de_servico_jantar_e_jardim,2018,11939.8
+South,moveis_cozinha_area_de_servico_jantar_e_jardim,All Years,18055.64
+South,moveis_decoracao,2016,1232.86
+South,moveis_decoracao,2017,72986.82
+South,moveis_decoracao,2018,114402.55
+South,moveis_decoracao,All Years,188622.23
+South,moveis_escritorio,2017,7699.27
+South,moveis_escritorio,2018,9072.08
+South,moveis_escritorio,All Years,16771.35
+South,moveis_quarto,2017,1511.44
+South,moveis_quarto,2018,2005.7
+South,moveis_quarto,All Years,3517.14
+South,moveis_sala,2017,2126.08
+South,moveis_sala,2018,8082.35
+South,moveis_sala,All Years,10208.43
+South,musica,2017,1528.9
+South,musica,2018,1244.12
+South,musica,All Years,2773.02
+South,papelaria,2017,4193.04
+South,papelaria,2018,11246.54
+South,papelaria,All Years,15439.58
+South,pcs,2018,6922.21
+South,pcs,All Years,6922.21
+South,perfumaria,2017,32561.28
+South,perfumaria,2018,26543.31
+South,perfumaria,All Years,59104.59
+South,pet_shop,2016,360.18
+South,pet_shop,2017,16889.3
+South,pet_shop,2018,27281.48
+South,pet_shop,All Years,44530.96
+South,portateis_casa_forno_e_cafe,2018,104.42
+South,portateis_casa_forno_e_cafe,All Years,104.42
+South,relogios_presentes,2016,2044.49
+South,relogios_presentes,2017,45369.99
+South,relogios_presentes,2018,40741.13
+South,relogios_presentes,All Years,88155.61
+South,sinalizacao_e_seguranca,2017,282.18
+South,sinalizacao_e_seguranca,2018,5099.83
+South,sinalizacao_e_seguranca,All Years,5382.01
+South,telefonia,2016,327.25
+South,telefonia,2017,10151.01
+South,telefonia,2018,24962.52
+South,telefonia,All Years,35440.78
+South,telefonia_fixa,2017,165.48
+South,telefonia_fixa,2018,1324.47
+South,telefonia_fixa,All Years,1489.95
+South,unknown_category,2017,15568.37
+South,unknown_category,2018,9350.55
+South,unknown_category,All Years,24918.92
+South,utilidades_domesticas,2017,55476.46
+South,utilidades_domesticas,2018,104786.34
+South,utilidades_domesticas,All Years,160262.8
+South,All Categories,2016,12045.35
+South,All Categories,2017,1169412.0
+South,All Categories,2018,1481048.45
+South,All Categories,All Years,2662505.8
+Southeast,agro_industria_e_comercio,2017,16303.09
+Southeast,agro_industria_e_comercio,2018,17107.22
+Southeast,agro_industria_e_comercio,All Years,33410.31
+Southeast,alimentos,2017,7441.79
+Southeast,alimentos,2018,24939.55
+Southeast,alimentos,All Years,32381.34
+Southeast,alimentos_bebidas,2017,4575.64
+Southeast,alimentos_bebidas,2018,9318.14
+Southeast,alimentos_bebidas,All Years,13893.78
+Southeast,artes,2017,1955.12
+Southeast,artes,2018,17235.51
+Southeast,artes,All Years,19190.63
+Southeast,artes_e_artesanato,2017,175.22
+Southeast,artes_e_artesanato,2018,1387.88
+Southeast,artes_e_artesanato,All Years,1563.1
+Southeast,artigos_de_festas,2017,608.09
+Southeast,artigos_de_festas,2018,2244.13
+Southeast,artigos_de_festas,All Years,2852.22
+Southeast,artigos_de_natal,2017,3148.4
+Southeast,artigos_de_natal,2018,6677.96
+Southeast,artigos_de_natal,All Years,9826.36
+Southeast,audio,2016,183.03
+Southeast,audio,2017,18875.94
+Southeast,audio,2018,35069.95
+Southeast,audio,All Years,54128.92
+Southeast,automotivo,2016,1865.72
+Southeast,automotivo,2017,216390.5
+Southeast,automotivo,2018,314430.54
+Southeast,automotivo,All Years,532686.76
+Southeast,bebes,2016,1600.43
+Southeast,bebes,2017,143030.18
+Southeast,bebes,2018,256156.94
+Southeast,bebes,All Years,400787.55
+Southeast,bebidas,2017,6148.37
+Southeast,bebidas,2018,17214.69
+Southeast,bebidas,All Years,23363.06
+Southeast,beleza_saude,2016,3688.65
+Southeast,beleza_saude,2017,413953.51
+Southeast,beleza_saude,2018,656320.43
+Southeast,beleza_saude,All Years,1073962.59
+Southeast,brinquedos,2016,4735.75
+Southeast,brinquedos,2017,300484.99
+Southeast,brinquedos,2018,171749.86
+Southeast,brinquedos,All Years,476970.6
+Southeast,cama_mesa_banho,2016,606.58
+Southeast,cama_mesa_banho,2017,549724.52
+Southeast,cama_mesa_banho,2018,572358.22
+Southeast,cama_mesa_banho,All Years,1122689.32
+Southeast,casa_conforto,2017,42547.92
+Southeast,casa_conforto,2018,23803.83
+Southeast,casa_conforto,All Years,66351.75
+Southeast,casa_conforto_2,2017,886.67
+Southeast,casa_conforto_2,2018,283.91
+Southeast,casa_conforto_2,All Years,1170.58
+Southeast,casa_construcao,2017,22579.8
+Southeast,casa_construcao,2018,61669.23
+Southeast,casa_construcao,All Years,84249.03
+Southeast,cds_dvds_musicais,2017,837.41
+Southeast,cds_dvds_musicais,2018,117.58
+Southeast,cds_dvds_musicais,All Years,954.99
+Southeast,cine_foto,2017,259.94
+Southeast,cine_foto,2018,3805.7
+Southeast,cine_foto,All Years,4065.64
+Southeast,climatizacao,2016,319.0
+Southeast,climatizacao,2017,24334.87
+Southeast,climatizacao,2018,22048.11
+Southeast,climatizacao,All Years,46701.98
+Southeast,consoles_games,2016,3362.56
+Southeast,consoles_games,2017,79243.02
+Southeast,consoles_games,2018,39101.8
+Southeast,consoles_games,All Years,121707.38
+Southeast,construcao_ferramentas_construcao,2017,20460.0
+Southeast,construcao_ferramentas_construcao,2018,116234.71
+Southeast,construcao_ferramentas_construcao,All Years,136694.71
+Southeast,construcao_ferramentas_ferramentas,2017,1480.25
+Southeast,construcao_ferramentas_ferramentas,2018,11443.09
+Southeast,construcao_ferramentas_ferramentas,All Years,12923.34
+Southeast,construcao_ferramentas_iluminacao,2017,4729.18
+Southeast,construcao_ferramentas_iluminacao,2018,38520.83
+Southeast,construcao_ferramentas_iluminacao,All Years,43250.01
+Southeast,construcao_ferramentas_jardim,2017,6900.61
+Southeast,construcao_ferramentas_jardim,2018,17805.55
+Southeast,construcao_ferramentas_jardim,All Years,24706.16
+Southeast,construcao_ferramentas_seguranca,2017,6330.18
+Southeast,construcao_ferramentas_seguranca,2018,24061.44
+Southeast,construcao_ferramentas_seguranca,All Years,30391.62
+Southeast,cool_stuff,2016,562.42
+Southeast,cool_stuff,2017,360700.42
+Southeast,cool_stuff,2018,216802.26
+Southeast,cool_stuff,All Years,578065.1
+Southeast,dvds_blu_ray,2017,3063.39
+Southeast,dvds_blu_ray,2018,1003.42
+Southeast,dvds_blu_ray,All Years,4066.81
+Southeast,eletrodomesticos,2017,27349.85
+Southeast,eletrodomesticos,2018,64634.15
+Southeast,eletrodomesticos,All Years,91984.0
+Southeast,eletrodomesticos_2,2017,13952.6
+Southeast,eletrodomesticos_2,2018,84201.92
+Southeast,eletrodomesticos_2,All Years,98154.52
+Southeast,eletronicos,2016,119.79
+Southeast,eletronicos,2017,53595.87
+Southeast,eletronicos,2018,104447.03
+Southeast,eletronicos,All Years,158162.69
+Southeast,eletroportateis,2017,87623.5
+Southeast,eletroportateis,2018,65335.33
+Southeast,eletroportateis,All Years,152958.83
+Southeast,esporte_lazer,2016,3265.25
+Southeast,esporte_lazer,2017,358788.61
+Southeast,esporte_lazer,2018,461907.12
+Southeast,esporte_lazer,All Years,823960.98
+Southeast,fashion_bolsas_e_acessorios,2016,656.49
+Southeast,fashion_bolsas_e_acessorios,2017,83316.11
+Southeast,fashion_bolsas_e_acessorios,2018,70252.26
+Southeast,fashion_bolsas_e_acessorios,All Years,154224.86
+Southeast,fashion_calcados,2016,40.95
+Southeast,fashion_calcados,2017,13902.46
+Southeast,fashion_calcados,2018,9101.97
+Southeast,fashion_calcados,All Years,23045.38
+Southeast,fashion_esporte,2017,1637.43
+Southeast,fashion_esporte,2018,431.19
+Southeast,fashion_esporte,All Years,2068.62
+Southeast,fashion_roupa_feminina,2016,69.63
+Southeast,fashion_roupa_feminina,2017,2032.37
+Southeast,fashion_roupa_feminina,2018,783.37
+Southeast,fashion_roupa_feminina,All Years,2885.37
+Southeast,fashion_roupa_infanto_juvenil,2017,417.23
+Southeast,fashion_roupa_infanto_juvenil,2018,97.48
+Southeast,fashion_roupa_infanto_juvenil,All Years,514.71
+Southeast,fashion_roupa_masculina,2016,35.86
+Southeast,fashion_roupa_masculina,2017,4661.4
+Southeast,fashion_roupa_masculina,2018,954.05
+Southeast,fashion_roupa_masculina,All Years,5651.31
+Southeast,fashion_underwear_e_moda_praia,2017,8341.53
+Southeast,fashion_underwear_e_moda_praia,2018,3116.21
+Southeast,fashion_underwear_e_moda_praia,All Years,11457.74
+Southeast,ferramentas_jardim,2016,278.35
+Southeast,ferramentas_jardim,2017,240422.01
+Southeast,ferramentas_jardim,2018,207892.21
+Southeast,ferramentas_jardim,All Years,448592.57
+Southeast,flores,2017,382.27
+Southeast,flores,2018,1216.64
+Southeast,flores,All Years,1598.91
+Southeast,fraldas_higiene,2016,150.99
+Southeast,fraldas_higiene,2017,99.7
+Southeast,fraldas_higiene,2018,1731.61
+Southeast,fraldas_higiene,All Years,1982.3
+Southeast,industria_comercio_e_negocios,2016,433.56
+Southeast,industria_comercio_e_negocios,2017,5351.09
+Southeast,industria_comercio_e_negocios,2018,28143.13
+Southeast,industria_comercio_e_negocios,All Years,33927.78
+Southeast,informatica_acessorios,2016,1403.65
+Southeast,informatica_acessorios,2017,326670.53
+Southeast,informatica_acessorios,2018,312955.43
+Southeast,informatica_acessorios,All Years,641029.61
+Southeast,instrumentos_musicais,2017,63025.3
+Southeast,instrumentos_musicais,2018,64200.5
+Southeast,instrumentos_musicais,All Years,127225.8
+Southeast,la_cuisine,2017,147.15
+Southeast,la_cuisine,All Years,147.15
+Southeast,livros_importados,2017,1318.99
+Southeast,livros_importados,2018,4090.71
+Southeast,livros_importados,All Years,5409.7
+Southeast,livros_interesse_geral,2016,144.54
+Southeast,livros_interesse_geral,2017,13525.47
+Southeast,livros_interesse_geral,2018,27140.65
+Southeast,livros_interesse_geral,All Years,40810.66
+Southeast,livros_tecnicos,2017,5856.81
+Southeast,livros_tecnicos,2018,15520.32
+Southeast,livros_tecnicos,All Years,21377.13
+Southeast,malas_acessorios,2017,84549.32
+Southeast,malas_acessorios,2018,55240.27
+Southeast,malas_acessorios,All Years,139789.59
+Southeast,market_place,2016,1480.63
+Southeast,market_place,2017,16557.18
+Southeast,market_place,2018,7663.17
+Southeast,market_place,All Years,25700.98
+Southeast,moveis_colchao_e_estofado,2017,2763.28
+Southeast,moveis_colchao_e_estofado,2018,2422.46
+Southeast,moveis_colchao_e_estofado,All Years,5185.74
+Southeast,moveis_cozinha_area_de_servico_jantar_e_jardim,2017,17260.71
+Southeast,moveis_cozinha_area_de_servico_jantar_e_jardim,2018,23011.45
+Southeast,moveis_cozinha_area_de_servico_jantar_e_jardim,All Years,40272.16
+Southeast,moveis_decoracao,2016,5955.65
+Southeast,moveis_decoracao,2017,334363.86
+Southeast,moveis_decoracao,2018,359675.42
+Southeast,moveis_decoracao,All Years,699994.93
+Southeast,moveis_escritorio,2016,1587.55
+Southeast,moveis_escritorio,2017,151500.1
+Southeast,moveis_escritorio,2018,172673.65
+Southeast,moveis_escritorio,All Years,325761.3
+Southeast,moveis_quarto,2017,9157.14
+Southeast,moveis_quarto,2018,11018.01
+Southeast,moveis_quarto,All Years,20175.15
+Southeast,moveis_sala,2017,41203.77
+Southeast,moveis_sala,2018,34449.69
+Southeast,moveis_sala,All Years,75653.46
+Southeast,musica,2017,201.38
+Southeast,musica,2018,3658.29
+Southeast,musica,All Years,3859.67
+Southeast,papelaria,2017,108281.88
+Southeast,papelaria,2018,148164.38
+Southeast,papelaria,All Years,256446.26
+Southeast,pc_gamer,2017,584.06
+Southeast,pc_gamer,2018,1095.46
+Southeast,pc_gamer,All Years,1679.52
+Southeast,pcs,2017,12073.46
+Southeast,pcs,2018,35126.03
+Southeast,pcs,All Years,47199.49
+Southeast,perfumaria,2016,6223.84
+Southeast,perfumaria,2017,199981.58
+Southeast,perfumaria,2018,172078.34
+Southeast,perfumaria,All Years,378283.76
+Southeast,pet_shop,2016,415.68
+Southeast,pet_shop,2017,83303.26
+Southeast,pet_shop,2018,125188.96
+Southeast,pet_shop,All Years,208907.9
+Southeast,portateis_casa_forno_e_cafe,2017,895.98
+Southeast,portateis_casa_forno_e_cafe,2018,49193.17
+Southeast,portateis_casa_forno_e_cafe,All Years,50089.15
+Southeast,portateis_cozinha_e_preparadores_de_alimentos,2018,4278.29
+Southeast,portateis_cozinha_e_preparadores_de_alimentos,All Years,4278.29
+Southeast,relogios_presentes,2016,1423.55
+Southeast,relogios_presentes,2017,474445.81
+Southeast,relogios_presentes,2018,722666.58
+Southeast,relogios_presentes,All Years,1198535.94
+Southeast,seguros_e_servicos,2017,324.51
+Southeast,seguros_e_servicos,All Years,324.51
+Southeast,sinalizacao_e_seguranca,2017,5321.78
+Southeast,sinalizacao_e_seguranca,2018,17313.26
+Southeast,sinalizacao_e_seguranca,All Years,22635.04
+Southeast,tablets_impressao_imagem,2017,7212.78
+Southeast,tablets_impressao_imagem,2018,1541.83
+Southeast,tablets_impressao_imagem,All Years,8754.61
+Southeast,telefonia,2016,334.25
+Southeast,telefonia,2017,108428.46
+Southeast,telefonia,2018,162879.91
+Southeast,telefonia,All Years,271642.62
+Southeast,telefonia_fixa,2016,774.45
+Southeast,telefonia_fixa,2017,32053.84
+Southeast,telefonia_fixa,2018,26183.29
+Southeast,telefonia_fixa,All Years,59011.58
+Southeast,unknown_category,2016,95.92
+Southeast,unknown_category,2017,105119.81
+Southeast,unknown_category,2018,73324.27
+Southeast,unknown_category,All Years,178540.0
+Southeast,utilidades_domesticas,2016,1542.54
+Southeast,utilidades_domesticas,2017,227850.99
+Southeast,utilidades_domesticas,2018,376499.92
+Southeast,utilidades_domesticas,All Years,605893.45
+Southeast,All Categories,2016,43357.26
+Southeast,All Categories,2017,5593022.24
+Southeast,All Categories,2018,6792411.86
+Southeast,All Categories,All Years,12428791.36
+All Regions,agro_industria_e_comercio,2017,31111.89
+All Regions,agro_industria_e_comercio,2018,47262.18
+All Regions,agro_industria_e_comercio,All Years,78374.07
+All Regions,alimentos,2016,96.23
+All Regions,alimentos,2017,10858.46
+All Regions,alimentos,2018,25709.75
+All Regions,alimentos,All Years,36664.44
+All Regions,alimentos_bebidas,2017,9569.47
+All Regions,alimentos_bebidas,2018,10118.0
+All Regions,alimentos_bebidas,All Years,19687.47
+All Regions,artes,2017,10300.18
+All Regions,artes,2018,17947.63
+All Regions,artes,All Years,28247.81
+All Regions,artes_e_artesanato,2017,175.22
+All Regions,artes_e_artesanato,2018,2008.92
+All Regions,artes_e_artesanato,All Years,2184.14
+All Regions,artigos_de_festas,2017,2034.74
+All Regions,artigos_de_festas,2018,3278.41
+All Regions,artigos_de_festas,All Years,5313.15
+All Regions,artigos_de_natal,2017,3951.62
+All Regions,artigos_de_natal,2018,8078.5
+All Regions,artigos_de_natal,All Years,12030.12
+All Regions,audio,2016,183.03
+All Regions,audio,2017,19957.08
+All Regions,audio,2018,36258.83
+All Regions,audio,All Years,56398.94
+All Regions,automotivo,2016,2257.56
+All Regions,automotivo,2017,278916.19
+All Regions,automotivo,2018,404210.57
+All Regions,automotivo,All Years,685384.32
+All Regions,bebes,2016,1819.08
+All Regions,bebes,2017,179246.36
+All Regions,bebes,2018,299052.56
+All Regions,bebes,All Years,480118.0
+All Regions,bebidas,2017,6335.89
+All Regions,bebidas,2018,21834.06
+All Regions,bebidas,All Years,28169.95
+All Regions,beleza_saude,2016,5636.84
+All Regions,beleza_saude,2017,550420.11
+All Regions,beleza_saude,2018,885191.12
+All Regions,beleza_saude,All Years,1441248.07
+All Regions,brinquedos,2016,4986.08
+All Regions,brinquedos,2017,355752.4
+All Regions,brinquedos,2018,200634.07
+All Regions,brinquedos,All Years,561372.55
+All Regions,cama_mesa_banho,2016,606.58
+All Regions,cama_mesa_banho,2017,590280.44
+All Regions,cama_mesa_banho,2018,650794.7
+All Regions,cama_mesa_banho,All Years,1241681.72
+All Regions,casa_conforto,2017,42886.46
+All Regions,casa_conforto,2018,24186.81
+All Regions,casa_conforto,All Years,67073.27
+All Regions,casa_conforto_2,2017,886.67
+All Regions,casa_conforto_2,2018,283.91
+All Regions,casa_conforto_2,All Years,1170.58
+All Regions,casa_construcao,2017,27562.59
+All Regions,casa_construcao,2018,69357.77
+All Regions,casa_construcao,All Years,96920.36
+All Regions,cds_dvds_musicais,2017,837.41
+All Regions,cds_dvds_musicais,2018,117.58
+All Regions,cds_dvds_musicais,All Years,954.99
+All Regions,cine_foto,2017,935.95
+All Regions,cine_foto,2018,7253.71
+All Regions,cine_foto,All Years,8189.66
+All Regions,climatizacao,2016,1904.91
+All Regions,climatizacao,2017,30980.16
+All Regions,climatizacao,2018,28889.12
+All Regions,climatizacao,All Years,61774.19
+All Regions,consoles_games,2016,4089.42
+All Regions,consoles_games,2017,100236.32
+All Regions,consoles_games,2018,72967.5
+All Regions,consoles_games,All Years,177293.24
+All Regions,construcao_ferramentas_construcao,2017,24140.66
+All Regions,construcao_ferramentas_construcao,2018,141187.34
+All Regions,construcao_ferramentas_construcao,All Years,165328.0
+All Regions,construcao_ferramentas_ferramentas,2017,4485.97
+All Regions,construcao_ferramentas_ferramentas,2018,13448.2
+All Regions,construcao_ferramentas_ferramentas,All Years,17934.17
+All Regions,construcao_ferramentas_iluminacao,2017,4795.96
+All Regions,construcao_ferramentas_iluminacao,2018,43867.84
+All Regions,construcao_ferramentas_iluminacao,All Years,48663.8
+All Regions,construcao_ferramentas_jardim,2017,10534.6
+All Regions,construcao_ferramentas_jardim,2018,20492.69
+All Regions,construcao_ferramentas_jardim,All Years,31027.29
+All Regions,construcao_ferramentas_seguranca,2017,9054.32
+All Regions,construcao_ferramentas_seguranca,2018,35409.3
+All Regions,construcao_ferramentas_seguranca,All Years,44463.62
+All Regions,cool_stuff,2016,1327.11
+All Regions,cool_stuff,2017,444092.79
+All Regions,cool_stuff,2018,273910.05
+All Regions,cool_stuff,All Years,719329.95
+All Regions,dvds_blu_ray,2017,5613.28
+All Regions,dvds_blu_ray,2018,1674.85
+All Regions,dvds_blu_ray,All Years,7288.13
+All Regions,eletrodomesticos,2017,28530.19
+All Regions,eletrodomesticos,2018,66460.24
+All Regions,eletrodomesticos,All Years,94990.43
+All Regions,eletrodomesticos_2,2017,27626.32
+All Regions,eletrodomesticos_2,2018,96291.6
+All Regions,eletrodomesticos_2,All Years,123917.92
+All Regions,eletronicos,2016,1347.57
+All Regions,eletronicos,2017,71212.04
+All Regions,eletronicos,2018,134265.45
+All Regions,eletronicos,All Years,206825.06
+All Regions,eletroportateis,2017,109458.65
+All Regions,eletroportateis,2018,97210.18
+All Regions,eletroportateis,All Years,206668.83
+All Regions,esporte_lazer,2016,3927.11
+All Regions,esporte_lazer,2017,530730.03
+All Regions,esporte_lazer,2018,621999.34
+All Regions,esporte_lazer,All Years,1156656.48
+All Regions,fashion_bolsas_e_acessorios,2016,676.11
+All Regions,fashion_bolsas_e_acessorios,2017,98506.15
+All Regions,fashion_bolsas_e_acessorios,2018,85091.28
+All Regions,fashion_bolsas_e_acessorios,All Years,184273.54
+All Regions,fashion_calcados,2016,40.95
+All Regions,fashion_calcados,2017,18322.27
+All Regions,fashion_calcados,2018,10118.42
+All Regions,fashion_calcados,All Years,28481.64
+All Regions,fashion_esporte,2017,2266.45
+All Regions,fashion_esporte,2018,431.19
+All Regions,fashion_esporte,All Years,2697.64
+All Regions,fashion_roupa_feminina,2016,69.63
+All Regions,fashion_roupa_feminina,2017,2572.39
+All Regions,fashion_roupa_feminina,2018,783.37
+All Regions,fashion_roupa_feminina,All Years,3425.39
+All Regions,fashion_roupa_infanto_juvenil,2017,471.32
+All Regions,fashion_roupa_infanto_juvenil,2018,194.04
+All Regions,fashion_roupa_infanto_juvenil,All Years,665.36
+All Regions,fashion_roupa_masculina,2016,35.86
+All Regions,fashion_roupa_masculina,2017,10103.96
+All Regions,fashion_roupa_masculina,2018,2810.41
+All Regions,fashion_roupa_masculina,All Years,12950.23
+All Regions,fashion_underwear_e_moda_praia,2017,8341.53
+All Regions,fashion_underwear_e_moda_praia,2018,3116.21
+All Regions,fashion_underwear_e_moda_praia,All Years,11457.74
+All Regions,ferramentas_jardim,2016,1465.19
+All Regions,ferramentas_jardim,2017,323685.7
+All Regions,ferramentas_jardim,2018,259068.32
+All Regions,ferramentas_jardim,All Years,584219.21
+All Regions,flores,2017,382.27
+All Regions,flores,2018,1216.64
+All Regions,flores,All Years,1598.91
+All Regions,fraldas_higiene,2016,150.99
+All Regions,fraldas_higiene,2017,99.7
+All Regions,fraldas_higiene,2018,1890.58
+All Regions,fraldas_higiene,All Years,2141.27
+All Regions,industria_comercio_e_negocios,2016,433.56
+All Regions,industria_comercio_e_negocios,2017,9787.89
+All Regions,industria_comercio_e_negocios,2018,37332.84
+All Regions,industria_comercio_e_negocios,All Years,47554.29
+All Regions,informatica_acessorios,2016,1740.09
+All Regions,informatica_acessorios,2017,462761.27
+All Regions,informatica_acessorios,2018,594771.04
+All Regions,informatica_acessorios,All Years,1059272.4
+All Regions,instrumentos_musicais,2017,88661.06
+All Regions,instrumentos_musicais,2018,121476.31
+All Regions,instrumentos_musicais,All Years,210137.37
+All Regions,la_cuisine,2017,1497.69
+All Regions,la_cuisine,2018,890.85
+All Regions,la_cuisine,All Years,2388.54
+All Regions,livros_importados,2017,1318.99
+All Regions,livros_importados,2018,4090.71
+All Regions,livros_importados,All Years,5409.7
+All Regions,livros_interesse_geral,2016,144.54
+All Regions,livros_interesse_geral,2017,23655.06
+All Regions,livros_interesse_geral,2018,32252.8
+All Regions,livros_interesse_geral,All Years,56052.4
+All Regions,livros_tecnicos,2016,299.84
+All Regions,livros_tecnicos,2017,6508.85
+All Regions,livros_tecnicos,2018,16570.43
+All Regions,livros_tecnicos,All Years,23379.12
+All Regions,malas_acessorios,2017,93500.56
+All Regions,malas_acessorios,2018,77374.65
+All Regions,malas_acessorios,All Years,170875.21
+All Regions,market_place,2016,1579.18
+All Regions,market_place,2017,22891.34
+All Regions,market_place,2018,9364.01
+All Regions,market_place,All Years,33834.53
+All Regions,moveis_colchao_e_estofado,2017,3309.9
+All Regions,moveis_colchao_e_estofado,2018,2688.64
+All Regions,moveis_colchao_e_estofado,All Years,5998.54
+All Regions,moveis_cozinha_area_de_servico_jantar_e_jardim,2017,23376.55
+All Regions,moveis_cozinha_area_de_servico_jantar_e_jardim,2018,34951.25
+All Regions,moveis_cozinha_area_de_servico_jantar_e_jardim,All Years,58327.8
+All Regions,moveis_decoracao,2016,7188.51
+All Regions,moveis_decoracao,2017,418857.15
+All Regions,moveis_decoracao,2018,476466.13
+All Regions,moveis_decoracao,All Years,902511.79
+All Regions,moveis_escritorio,2016,1587.55
+All Regions,moveis_escritorio,2017,159199.37
+All Regions,moveis_escritorio,2018,181745.73
+All Regions,moveis_escritorio,All Years,342532.65
+All Regions,moveis_quarto,2017,10668.58
+All Regions,moveis_quarto,2018,13992.43
+All Regions,moveis_quarto,All Years,24661.01
+All Regions,moveis_sala,2017,44110.59
+All Regions,moveis_sala,2018,42774.14
+All Regions,moveis_sala,All Years,86884.73
+All Regions,musica,2017,1730.28
+All Regions,musica,2018,4994.58
+All Regions,musica,All Years,6724.86
+All Regions,papelaria,2017,112997.86
+All Regions,papelaria,2018,164743.85
+All Regions,papelaria,All Years,277741.71
+All Regions,pc_gamer,2017,584.06
+All Regions,pc_gamer,2018,1095.46
+All Regions,pc_gamer,All Years,1679.52
+All Regions,pcs,2017,164938.63
+All Regions,pcs,2018,67860.8
+All Regions,pcs,All Years,232799.43
+All Regions,perfumaria,2016,6223.84
+All Regions,perfumaria,2017,242552.33
+All Regions,perfumaria,2018,204562.54
+All Regions,perfumaria,All Years,453338.71
+All Regions,pet_shop,2016,775.86
+All Regions,pet_shop,2017,100295.85
+All Regions,pet_shop,2018,152804.94
+All Regions,pet_shop,All Years,253876.65
+All Regions,portateis_casa_forno_e_cafe,2017,895.98
+All Regions,portateis_casa_forno_e_cafe,2018,49297.59
+All Regions,portateis_casa_forno_e_cafe,All Years,50193.57
+All Regions,portateis_cozinha_e_preparadores_de_alimentos,2018,4278.29
+All Regions,portateis_cozinha_e_preparadores_de_alimentos,All Years,4278.29
+All Regions,relogios_presentes,2016,3468.04
+All Regions,relogios_presentes,2017,530086.82
+All Regions,relogios_presentes,2018,771986.75
+All Regions,relogios_presentes,All Years,1305541.61
+All Regions,seguros_e_servicos,2017,324.51
+All Regions,seguros_e_servicos,All Years,324.51
+All Regions,sinalizacao_e_seguranca,2017,5603.96
+All Regions,sinalizacao_e_seguranca,2018,22413.09
+All Regions,sinalizacao_e_seguranca,All Years,28017.05
+All Regions,tablets_impressao_imagem,2017,7212.78
+All Regions,tablets_impressao_imagem,2018,1541.83
+All Regions,tablets_impressao_imagem,All Years,8754.61
+All Regions,telefonia,2016,709.04
+All Regions,telefonia,2017,176722.15
+All Regions,telefonia,2018,217452.13
+All Regions,telefonia,All Years,394883.32
+All Regions,telefonia_fixa,2016,774.45
+All Regions,telefonia_fixa,2017,32948.5
+All Regions,telefonia_fixa,2018,30497.86
+All Regions,telefonia_fixa,All Years,64220.81
+All Regions,unknown_category,2016,95.92
+All Regions,unknown_category,2017,122133.44
+All Regions,unknown_category,2018,85475.73
+All Regions,unknown_category,All Years,207705.09
+All Regions,utilidades_domesticas,2016,1542.54
+All Regions,utilidades_domesticas,2017,285278.27
+All Regions,utilidades_domesticas,2018,491576.96
+All Regions,utilidades_domesticas,All Years,778397.77
+All Regions,All Categories,2016,57183.21
+All Regions,All Categories,2017,7142672.43
+All Regions,All Categories,2018,8643697.6
+All Regions,All Categories,All Years,15843553.24

@@ -1,0 +1,54 @@
+{
+  "description": "Submitted concept-hierarchy definitions for AOI. Derived pairs are validated against the census data; authored mappings are stored in CSV files.",
+  "hierarchies": {
+    "industry": {
+      "kind": "derived_pair",
+      "level0_column": "industry_code_detailed",
+      "level1_column": "industry_code_major",
+      "root": "ANY",
+      "levels": ["detailed industry", "major industry", "ANY"],
+      "source": "dataset detailed/summary pair; majority mapping with exceptions logged"
+    },
+    "occupation": {
+      "kind": "derived_pair",
+      "level0_column": "occupation_code_detailed",
+      "level1_column": "occupation_code_major",
+      "root": "ANY",
+      "levels": ["detailed occupation", "major occupation", "ANY"],
+      "source": "dataset detailed/summary pair; majority mapping with exceptions logged"
+    },
+    "household": {
+      "kind": "derived_pair",
+      "level0_column": "household_family_status",
+      "level1_column": "household_summary",
+      "root": "ANY",
+      "levels": ["household family status", "household summary", "ANY"],
+      "source": "dataset detailed/summary pair; majority mapping with exceptions logged"
+    },
+    "geography": {
+      "kind": "derived_pair",
+      "level0_column": "state_prev_residence",
+      "level1_column": "region_prev_residence",
+      "root": "ANY",
+      "levels": ["state of previous residence", "region of previous residence", "ANY"],
+      "source": "dataset detailed/summary pair; majority mapping with exceptions logged"
+    },
+    "age": {
+      "kind": "mapping_file",
+      "level0_column": "age",
+      "mapping_file": "age_hierarchy.csv",
+      "root": "ANY",
+      "levels": ["single year", "age band", "ANY"],
+      "source": "submitted age_hierarchy.csv"
+    },
+    "education": {
+      "kind": "mapping_file",
+      "level0_column": "education",
+      "mapping_file": "education_hierarchy.csv",
+      "root": "ANY",
+      "levels": ["education category", "education tier", "ANY"],
+      "source": "submitted education_hierarchy.csv"
+    }
+  }
+}
+

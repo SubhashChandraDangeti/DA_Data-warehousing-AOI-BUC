@@ -1,0 +1,53 @@
+level0_value,level1_value,level2_value
+0,Not in universe or children,ANY
+1,Agriculture,ANY
+2,Agriculture,ANY
+3,Mining,ANY
+4,Construction,ANY
+5,Manufacturing-durable goods,ANY
+6,Manufacturing-durable goods,ANY
+7,Manufacturing-durable goods,ANY
+8,Manufacturing-durable goods,ANY
+9,Manufacturing-durable goods,ANY
+10,Manufacturing-durable goods,ANY
+11,Manufacturing-durable goods,ANY
+12,Manufacturing-durable goods,ANY
+13,Manufacturing-durable goods,ANY
+14,Manufacturing-durable goods,ANY
+15,Manufacturing-durable goods,ANY
+16,Manufacturing-durable goods,ANY
+17,Manufacturing-durable goods,ANY
+18,Manufacturing-durable goods,ANY
+19,Manufacturing-nondurable goods,ANY
+20,Manufacturing-nondurable goods,ANY
+21,Manufacturing-nondurable goods,ANY
+22,Manufacturing-nondurable goods,ANY
+23,Manufacturing-nondurable goods,ANY
+24,Manufacturing-nondurable goods,ANY
+25,Manufacturing-nondurable goods,ANY
+26,Manufacturing-nondurable goods,ANY
+27,Manufacturing-nondurable goods,ANY
+28,Manufacturing-nondurable goods,ANY
+29,Transportation,ANY
+30,Communications,ANY
+31,Utilities and sanitary services,ANY
+32,Wholesale trade,ANY
+33,Retail trade,ANY
+34,Finance insurance and real estate,ANY
+35,Finance insurance and real estate,ANY
+36,Private household services,ANY
+37,Business and repair services,ANY
+38,Business and repair services,ANY
+39,Personal services except private HH,ANY
+40,Entertainment,ANY
+41,Hospital services,ANY
+42,Medical except hospital,ANY
+43,Education,ANY
+44,Social services,ANY
+45,Other professional services,ANY
+46,Forestry and fisheries,ANY
+47,Public administration,ANY
+48,Public administration,ANY
+49,Public administration,ANY
+50,Public administration,ANY
+51,Armed Forces,ANY

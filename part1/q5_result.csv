@@ -1,0 +1,587 @@
+region,state,city,total_revenue,level
+Southeast,SP,sao paulo,3226579.28,City Detail
+Southeast,SP,ibitinga,762274.01,City Detail
+Southeast,SP,guarulhos,377555.79,City Detail
+Southeast,SP,ribeirao preto,364401.7,City Detail
+Southeast,SP,itaquaquecetuba,290945.23,City Detail
+Southeast,SP,santo andre,277529.2,City Detail
+Southeast,SP,sao jose do rio preto,263031.98,City Detail
+Southeast,SP,guariba,249640.7,City Detail
+Southeast,SP,piracicaba,245084.01,City Detail
+Southeast,SP,sumare,206192.12,City Detail
+Southeast,SP,barueri,204401.45,City Detail
+Southeast,SP,sao bernardo do campo,203643.79,City Detail
+Southeast,SP,campinas,201583.35,City Detail
+Southeast,SP,santa barbara d'oeste,153872.04,City Detail
+Southeast,SP,salto,150766.79,City Detail
+Southeast,SP,limeira,130884.35,City Detail
+Southeast,SP,campo limpo paulista,124650.04,City Detail
+Southeast,SP,osasco,112658.45,City Detail
+Southeast,SP,jacarei,108686.86,City Detail
+Southeast,SP,praia grande,107665.77,City Detail
+Southeast,SP,sao jose dos campos,101550.59,City Detail
+Southeast,SP,franca,98955.86,City Detail
+Southeast,SP,itatiba,80097.73,City Detail
+Southeast,SP,diadema,76936.86,City Detail
+Southeast,SP,sorocaba,76122.5,City Detail
+Southeast,SP,araraquara,64366.42,City Detail
+Southeast,SP,sao caetano do sul,60950.09,City Detail
+Southeast,SP,penapolis,58030.56,City Detail
+Southeast,SP,pedreira,57272.56,City Detail
+Southeast,SP,mogi-guacu,56854.34,City Detail
+Southeast,SP,jau,56291.54,City Detail
+Southeast,SP,mogi das cruzes,55182.05,City Detail
+Southeast,SP,santos,54612.18,City Detail
+Southeast,SP,presidente prudente,52941.12,City Detail
+Southeast,SP,atibaia,51044.58,City Detail
+Southeast,SP,pradopolis,50893.67,City Detail
+Southeast,SP,guara,42197.18,City Detail
+Southeast,SP,hortolandia,40794.58,City Detail
+Southeast,SP,indaiatuba,39254.51,City Detail
+Southeast,SP,marilia,38734.1,City Detail
+Southeast,SP,braganca paulista,38132.24,City Detail
+Southeast,SP,maua,36689.69,City Detail
+Southeast,SP,cotia,35948.81,City Detail
+Southeast,SP,jundiai,35829.99,City Detail
+Southeast,SP,assis,32241.19,City Detail
+Southeast,SP,serra negra,30495.87,City Detail
+Southeast,SP,cajamar,30180.0,City Detail
+Southeast,SP,laranjal paulista,26442.29,City Detail
+Southeast,SP,carapicuiba,26385.6,City Detail
+Southeast,SP,bauru,25906.48,City Detail
+Southeast,SP,garca,25592.5,City Detail
+Southeast,SP,suzano,25040.7,City Detail
+Southeast,SP,votorantim,24864.03,City Detail
+Southeast,SP,votuporanga,24235.47,City Detail
+Southeast,SP,guaruja,22888.11,City Detail
+Southeast,SP,santana de parnaiba,22622.46,City Detail
+Southeast,SP,capivari,21295.96,City Detail
+Southeast,SP,ribeirao pires,20808.2,City Detail
+Southeast,SP,porto ferreira,20522.37,City Detail
+Southeast,SP,sao carlos,19888.99,City Detail
+Southeast,SP,louveira,18460.22,City Detail
+Southeast,SP,registro,18330.03,City Detail
+Southeast,SP,itapecerica da serra,17817.81,City Detail
+Southeast,SP,jaboticabal,17487.49,City Detail
+Southeast,SP,tupa,16763.73,City Detail
+Southeast,SP,americana,16729.71,City Detail
+Southeast,SP,botucatu,16431.88,City Detail
+Southeast,SP,amparo,16257.79,City Detail
+Southeast,SP,rio claro,16053.55,City Detail
+Southeast,SP,bonfim paulista,15512.82,City Detail
+Southeast,SP,mirandopolis,14986.65,City Detail
+Southeast,SP,mogi guacu,14155.02,City Detail
+Southeast,SP,birigui,14065.33,City Detail
+Southeast,SP,serrana,12758.93,City Detail
+Southeast,SP,bariri,12388.97,City Detail
+Southeast,SP,fernandopolis,12380.75,City Detail
+Southeast,SP,araras,11945.53,City Detail
+Southeast,SP,itapevi,11835.12,City Detail
+Southeast,SP,itajobi,11488.55,City Detail
+Southeast,SP,sao roque,11480.32,City Detail
+Southeast,SP,lencois paulista,11332.44,City Detail
+Southeast,SP,sao jose do rio pardo,11322.68,City Detail
+Southeast,SP,poa,11265.25,City Detail
+Southeast,SP,paulinia,10171.95,City Detail
+Southeast,SP,valinhos,10002.03,City Detail
+Southeast,SP,sao joaquim da barra,9925.07,City Detail
+Southeast,SP,bofete,9779.46,City Detail
+Southeast,SP,sao sebastiao,9574.27,City Detail
+Southeast,SP,dracena,9417.7,City Detail
+Southeast,SP,pompeia,9142.23,City Detail
+Southeast,SP,catanduva,9043.13,City Detail
+Southeast,SP,ipaussu,8699.32,City Detail
+Southeast,SP,taboao da serra,8553.8,City Detail
+Southeast,SP,bebedouro,8196.96,City Detail
+Southeast,SP,cruzeiro,7968.67,City Detail
+Southeast,SP,novo horizonte,7086.13,City Detail
+Southeast,SP,batatais,6863.44,City Detail
+Southeast,SP,jales,6749.47,City Detail
+Southeast,SP,cosmopolis,6645.71,City Detail
+Southeast,SP,taubate,6300.73,City Detail
+Southeast,SP,barretos,6141.25,City Detail
+Southeast,SP,tabatinga,6029.47,City Detail
+Southeast,SP,cafelandia,5942.69,City Detail
+Southeast,SP,sao pedro,5768.34,City Detail
+Southeast,SP,bertioga,5683.93,City Detail
+Southeast,SP,aracatuba,5457.6,City Detail
+Southeast,SP,jaguariuna,5270.02,City Detail
+Southeast,SP,dois corregos,4972.57,City Detail
+Southeast,SP,mirassol,4946.95,City Detail
+Southeast,SP,santo antonio de posse,4665.98,City Detail
+Southeast,SP,echapora,4623.96,City Detail
+Southeast,SP,ferraz de vasconcelos,4534.11,City Detail
+Southeast,SP,bady bassitt,4434.02,City Detail
+Southeast,SP,aruja,4054.64,City Detail
+Southeast,SP,mogi mirim,4039.57,City Detail
+Southeast,SP,conchal,3627.27,City Detail
+Southeast,SP,mombuca,3624.01,City Detail
+Southeast,SP,descalvado,3603.58,City Detail
+Southeast,SP,pilar do sul,3501.69,City Detail
+Southeast,SP,monteiro lobato,3035.39,City Detail
+Southeast,SP,artur nogueira,2973.98,City Detail
+Southeast,SP,mococa,2968.77,City Detail
+Southeast,SP,buritama,2917.37,City Detail
+Southeast,SP,mineiros do tiete,2768.66,City Detail
+Southeast,SP,mairipora,2724.11,City Detail
+Southeast,SP,vargem grande paulista,2697.83,City Detail
+Southeast,SP,santa rosa de viterbo,2646.94,City Detail
+Southeast,SP,cerqueira cesar,2227.59,City Detail
+Southeast,SP,socorro,2160.85,City Detail
+Southeast,SP,vargem grande do sul,2150.1,City Detail
+Southeast,SP,taruma,2115.83,City Detail
+Southeast,SP,itu,2074.72,City Detail
+Southeast,SP,tanabi,2021.62,City Detail
+Southeast,SP,lorena,1949.01,City Detail
+Southeast,SP,jaci,1903.23,City Detail
+Southeast,SP,cananeia,1862.35,City Detail
+Southeast,SP,tiete,1783.89,City Detail
+Southeast,SP,ubatuba,1747.69,City Detail
+Southeast,SP,monte alto,1658.09,City Detail
+Southeast,SP,aparecida,1533.95,City Detail
+Southeast,SP,pederneiras,1459.53,City Detail
+Southeast,SP,holambra,1442.09,City Detail
+Southeast,SP,embu das artes,1379.67,City Detail
+Southeast,SP,jambeiro,1376.94,City Detail
+Southeast,SP,osvaldo cruz,1312.2,City Detail
+Southeast,SP,boituva,1215.4,City Detail
+Southeast,SP,varzea paulista,1205.77,City Detail
+Southeast,SP,auriflama,1123.99,City Detail
+Southeast,SP,itapeva,1078.43,City Detail
+Southeast,SP,engenheiro coelho,1047.15,City Detail
+Southeast,SP,caieiras,963.0,City Detail
+Southeast,SP,nova odessa,942.17,City Detail
+Southeast,SP,orlandia,921.24,City Detail
+Southeast,SP,franco da rocha,919.18,City Detail
+Southeast,SP,presidente epitacio,787.26,City Detail
+Southeast,SP,pedregulho,745.92,City Detail
+Southeast,SP,embu-guacu,727.33,City Detail
+Southeast,SP,mairinque,722.97,City Detail
+Southeast,SP,tatui,669.76,City Detail
+Southeast,SP,presidente bernardes,591.83,City Detail
+Southeast,SP,itapetininga,532.48,City Detail
+Southeast,SP,ourinhos,498.35,City Detail
+Southeast,SP,igaracu do tiete,494.01,City Detail
+Southeast,SP,presidente venceslau,426.76,City Detail
+Southeast,SP,leme,401.24,City Detail
+Southeast,SP,sao vicente,397.61,City Detail
+Southeast,SP,miguelopolis,380.44,City Detail
+Southeast,SP,itirapina,373.07,City Detail
+Southeast,SP,sao joao da boa vista,355.39,City Detail
+Southeast,SP,nhandeara,313.61,City Detail
+Southeast,SP,clementina,311.66,City Detail
+Southeast,SP,francisco morato,293.38,City Detail
+Southeast,SP,ipua,291.72,City Detail
+Southeast,SP,olimpia,270.49,City Detail
+Southeast,SP,itaporanga,270.36,City Detail
+Southeast,SP,rio das pedras,249.39,City Detail
+Southeast,SP,pedrinhas paulista,240.06,City Detail
+Southeast,SP,alvares machado,226.81,City Detail
+Southeast,SP,alambari,219.75,City Detail
+Southeast,SP,santa maria da serra,215.1,City Detail
+Southeast,SP,cordeiropolis,210.57,City Detail
+Southeast,SP,bom jesus dos perdoes,203.48,City Detail
+Southeast,SP,itapui,199.84,City Detail
+Southeast,SP,marapoama,182.59,City Detail
+Southeast,SP,pindamonhangaba,181.32,City Detail
+Southeast,SP,cravinhos,176.97,City Detail
+Southeast,SP,guaira,173.68,City Detail
+Southeast,SP,vera cruz,141.33,City Detail
+Southeast,SP,fernando prestes,125.27,City Detail
+Southeast,SP,pirassununga,102.09,City Detail
+Southeast,SP,pinhalzinho,99.14,City Detail
+Southeast,SP,pitangueiras,93.53,City Detail
+Southeast,SP,sao sebastiao da grama,76.64,City Detail
+Southeast,SP,barrinha,71.18,City Detail
+Southeast,SP,brotas,63.05,City Detail
+Southeast,SP,guaratingueta,61.16,City Detail
+Southeast,SP,avare,60.19,City Detail
+Southeast,SP,guaimbe,48.98,City Detail
+Southeast,SP,tambau,42.49,City Detail
+Southeast,SP,jarinu,38.37,City Detail
+Southeast,SP,macatuba,25.69,City Detail
+Southeast,SP,All Cities,10165126.21,State Total
+Southeast,MG,belo horizonte,256638.43,City Detail
+Southeast,MG,ilicinea,133745.25,City Detail
+Southeast,MG,itauna,61848.33,City Detail
+Southeast,MG,uberlandia,59311.84,City Detail
+Southeast,MG,araguari,54833.37,City Detail
+Southeast,MG,uba,50620.13,City Detail
+Southeast,MG,borda da mata,50252.75,City Detail
+Southeast,MG,formiga,41699.03,City Detail
+Southeast,MG,monte siao,35850.79,City Detail
+Southeast,MG,divinopolis,35041.17,City Detail
+Southeast,MG,baependi,32097.48,City Detail
+Southeast,MG,betim,32030.19,City Detail
+Southeast,MG,tres coracoes,28170.88,City Detail
+Southeast,MG,vicosa,27580.51,City Detail
+Southeast,MG,congonhal,24951.27,City Detail
+Southeast,MG,contagem,23696.54,City Detail
+Southeast,MG,juiz de fora,18638.04,City Detail
+Southeast,MG,patos de minas,18418.4,City Detail
+Southeast,MG,andradas,18309.28,City Detail
+Southeast,MG,santa rita do sapucai,18149.83,City Detail
+Southeast,MG,uberaba,17619.1,City Detail
+Southeast,MG,sete lagoas,17036.71,City Detail
+Southeast,MG,congonhas,14404.28,City Detail
+Southeast,MG,claudio,12398.48,City Detail
+Southeast,MG,jacutinga,12243.48,City Detail
+Southeast,MG,varginha,11795.01,City Detail
+Southeast,MG,ponte nova,11522.66,City Detail
+Southeast,MG,ipatinga,10600.51,City Detail
+Southeast,MG,mateus leme,9351.6,City Detail
+Southeast,MG,pocos de caldas,9255.98,City Detail
+Southeast,MG,conselheiro lafaiete,8825.89,City Detail
+Southeast,MG,alfenas,8397.71,City Detail
+Southeast,MG,timoteo,7686.31,City Detail
+Southeast,MG,coronel fabriciano,6723.63,City Detail
+Southeast,MG,lagoa da prata,6466.75,City Detail
+Southeast,MG,sao joao del rei,6456.01,City Detail
+Southeast,MG,ribeirao das neves,6203.57,City Detail
+Southeast,MG,fronteira,5618.4,City Detail
+Southeast,MG,ibia,4365.76,City Detail
+Southeast,MG,campo do meio,4092.64,City Detail
+Southeast,MG,montes claros,3994.63,City Detail
+Southeast,MG,tiradentes,3426.91,City Detail
+Southeast,MG,ouro fino,3135.23,City Detail
+Southeast,MG,ouro preto,2188.86,City Detail
+Southeast,MG,cataguases,1963.08,City Detail
+Southeast,MG,vespasiano,1802.8,City Detail
+Southeast,MG,joao pinheiro,1769.59,City Detail
+Southeast,MG,lagoa santa,1545.83,City Detail
+Southeast,MG,guanhaes,1478.43,City Detail
+Southeast,MG,extrema,1428.22,City Detail
+Southeast,MG,sabara,1382.68,City Detail
+Southeast,MG,nova lima,1348.53,City Detail
+Southeast,MG,araxa,1327.14,City Detail
+Southeast,MG,camanducaia,1121.02,City Detail
+Southeast,MG,dores de campos,1113.02,City Detail
+Southeast,MG,arinos,862.25,City Detail
+Southeast,MG,muriae,861.46,City Detail
+Southeast,MG,bonfinopolis de minas,800.64,City Detail
+Southeast,MG,carmo do cajuru,617.88,City Detail
+Southeast,MG,caratinga,445.53,City Detail
+Southeast,MG,para de minas,444.93,City Detail
+Southeast,MG,guiricema,433.62,City Detail
+Southeast,MG,prados,385.42,City Detail
+Southeast,MG,janauba,373.82,City Detail
+Southeast,MG,teofilo otoni,359.91,City Detail
+Southeast,MG,barbacena,286.48,City Detail
+Southeast,MG,joao monlevade,277.96,City Detail
+Southeast,MG,pedro leopoldo,230.8,City Detail
+Southeast,MG,governador valadares,228.26,City Detail
+Southeast,MG,itau de minas,227.67,City Detail
+Southeast,MG,lambari,225.61,City Detail
+Southeast,MG,itabira,183.53,City Detail
+Southeast,MG,carmo da mata,133.8,City Detail
+Southeast,MG,ibirite,125.64,City Detail
+Southeast,MG,campanha,106.39,City Detail
+Southeast,MG,passos,106.35,City Detail
+Southeast,MG,oliveira,102.3,City Detail
+Southeast,MG,tocantins,96.1,City Detail
+Southeast,MG,divisa nova,88.09,City Detail
+Southeast,MG,pouso alegre,62.38,City Detail
+Southeast,MG,All Cities,1250040.78,State Total
+Southeast,RJ,rio de janeiro,405533.13,City Detail
+Southeast,RJ,teresopolis,137103.41,City Detail
+Southeast,RJ,petropolis,132336.24,City Detail
+Southeast,RJ,nova friburgo,65253.12,City Detail
+Southeast,RJ,sao goncalo,43889.85,City Detail
+Southeast,RJ,niteroi,29392.84,City Detail
+Southeast,RJ,macae,26782.58,City Detail
+Southeast,RJ,volta redonda,15944.93,City Detail
+Southeast,RJ,queimados,13639.41,City Detail
+Southeast,RJ,nilopolis,9486.01,City Detail
+Southeast,RJ,nova iguacu,9467.11,City Detail
+Southeast,RJ,duque de caxias,8554.3,City Detail
+Southeast,RJ,mesquita,8314.4,City Detail
+Southeast,RJ,mage,7978.11,City Detail
+Southeast,RJ,sao joao de meriti,5803.58,City Detail
+Southeast,RJ,tres rios,5535.95,City Detail
+Southeast,RJ,paraiba do sul,5118.75,City Detail
+Southeast,RJ,rio bonito,3626.5,City Detail
+Southeast,RJ,barra mansa,3518.29,City Detail
+Southeast,RJ,santo antonio de padua,2922.33,City Detail
+Southeast,RJ,angra dos reis,2587.95,City Detail
+Southeast,RJ,campos dos goytacazes,2118.08,City Detail
+Southeast,RJ,aperibe,1926.18,City Detail
+Southeast,RJ,marica,1787.94,City Detail
+Southeast,RJ,vassouras,1318.71,City Detail
+Southeast,RJ,sao pedro da aldeia,984.58,City Detail
+Southeast,RJ,itaborai,924.77,City Detail
+Southeast,RJ,saquarema,555.49,City Detail
+Southeast,RJ,belford roxo,343.13,City Detail
+Southeast,RJ,armacao dos buzios,332.15,City Detail
+Southeast,RJ,boa esperanca,237.6,City Detail
+Southeast,RJ,bom jardim,154.44,City Detail
+Southeast,RJ,paracambi,143.98,City Detail
+Southeast,RJ,resende,42.05,City Detail
+Southeast,RJ,All Cities,953657.89,State Total
+Southeast,ES,cariacica,34668.6,City Detail
+Southeast,ES,vila velha,9132.91,City Detail
+Southeast,ES,muqui,5019.6,City Detail
+Southeast,ES,cachoeiro de itapemirim,3980.03,City Detail
+Southeast,ES,vitoria,3933.44,City Detail
+Southeast,ES,domingos martins,1237.06,City Detail
+Southeast,ES,colatina,770.12,City Detail
+Southeast,ES,serra,660.42,City Detail
+Southeast,ES,afonso claudio,413.26,City Detail
+Southeast,ES,viana,151.04,City Detail
+Southeast,ES,All Cities,59966.48,State Total
+Southeast,All States,All Cities,12428791.36,Region Total
+South,PR,curitiba,541875.84,City Detail
+South,PR,maringa,253236.46,City Detail
+South,PR,cascavel,114121.14,City Detail
+South,PR,londrina,113022.73,City Detail
+South,PR,umuarama,41289.94,City Detail
+South,PR,rolandia,36394.46,City Detail
+South,PR,colombo,31568.52,City Detail
+South,PR,sarandi,29210.92,City Detail
+South,PR,pinhais,28851.5,City Detail
+South,PR,foz do iguacu,28211.09,City Detail
+South,PR,sao jose dos pinhais,24565.62,City Detail
+South,PR,apucarana,24134.32,City Detail
+South,PR,arapongas,23844.3,City Detail
+South,PR,campo mourao,16120.66,City Detail
+South,PR,campo largo,15213.72,City Detail
+South,PR,teixeira soares,15008.74,City Detail
+South,PR,jussara,14916.39,City Detail
+South,PR,francisco beltrao,12190.95,City Detail
+South,PR,paicandu,10918.74,City Detail
+South,PR,castro,9900.17,City Detail
+South,PR,california,8492.65,City Detail
+South,PR,fazenda rio grande,8289.69,City Detail
+South,PR,loanda,5350.68,City Detail
+South,PR,toledo,4821.98,City Detail
+South,PR,araucaria,4791.03,City Detail
+South,PR,entre rios do oeste,4633.46,City Detail
+South,PR,mandirituba,4005.32,City Detail
+South,PR,cornelio procopio,3964.73,City Detail
+South,PR,japira,3835.7,City Detail
+South,PR,santa terezinha de itaipu,3427.4,City Detail
+South,PR,guaratuba,2940.92,City Detail
+South,PR,ponta grossa,2623.13,City Detail
+South,PR,bocaiuva do sul,2490.4,City Detail
+South,PR,paranavai,2238.34,City Detail
+South,PR,ampere,2033.27,City Detail
+South,PR,mandaguari,2027.4,City Detail
+South,PR,marechal candido rondon,2023.56,City Detail
+South,PR,pitanga,1905.08,City Detail
+South,PR,floresta,1788.34,City Detail
+South,PR,barra do jacare,1660.28,City Detail
+South,PR,itaipulandia,1646.78,City Detail
+South,PR,formosa do oeste,1644.08,City Detail
+South,PR,laranjeiras do sul,1546.84,City Detail
+South,PR,terra boa,1334.18,City Detail
+South,PR,cambe,1054.59,City Detail
+South,PR,colorado,1035.7,City Detail
+South,PR,mandaguacu,1030.18,City Detail
+South,PR,pinhalao,985.04,City Detail
+South,PR,campo magro,905.85,City Detail
+South,PR,guarapuava,820.27,City Detail
+South,PR,bandeirantes,769.44,City Detail
+South,PR,imbituva,733.72,City Detail
+South,PR,irati,612.39,City Detail
+South,PR,pato branco,458.2,City Detail
+South,PR,sertanopolis,235.11,City Detail
+South,PR,pato bragado,231.96,City Detail
+South,PR,guaira,136.76,City Detail
+South,PR,marialva,113.87,City Detail
+South,PR,medianeira,77.66,City Detail
+South,PR,uniao da vitoria,77.38,City Detail
+South,PR,cianorte,71.45,City Detail
+South,PR,almirante tamandare,68.2,City Detail
+South,PR,goioere,54.98,City Detail
+South,PR,palotina,28.22,City Detail
+South,PR,All Cities,1473612.42,State Total
+South,SC,joinville,102000.92,City Detail
+South,SC,videira,88183.05,City Detail
+South,SC,bombinhas,63184.99,City Detail
+South,SC,lages,60847.3,City Detail
+South,SC,brusque,58434.37,City Detail
+South,SC,blumenau,54219.73,City Detail
+South,SC,itajai,39322.47,City Detail
+South,SC,florianopolis,39294.02,City Detail
+South,SC,jaragua do sul,29896.07,City Detail
+South,SC,navegantes,25381.61,City Detail
+South,SC,rio do sul,20903.06,City Detail
+South,SC,sao ludgero,18146.45,City Detail
+South,SC,sombrio,13304.14,City Detail
+South,SC,timbo,13038.9,City Detail
+South,SC,sao jose,12317.1,City Detail
+South,SC,canoinhas,10965.33,City Detail
+South,SC,tubarao,8886.1,City Detail
+South,SC,criciuma,8443.5,City Detail
+South,SC,icara,7875.71,City Detail
+South,SC,luiz alves,7186.89,City Detail
+South,SC,balneario camboriu,7090.98,City Detail
+South,SC,palhoca,5946.3,City Detail
+South,SC,curitibanos,5851.79,City Detail
+South,SC,jaguaruna,4592.58,City Detail
+South,SC,concordia,4272.65,City Detail
+South,SC,rodeio,4088.79,City Detail
+South,SC,indaial,3913.15,City Detail
+South,SC,massaranduba,3373.13,City Detail
+South,SC,sao bento do sul,3002.18,City Detail
+South,SC,garopaba,2983.9,City Detail
+South,SC,braco do norte,2945.0,City Detail
+South,SC,paulo lopes,2590.92,City Detail
+South,SC,xanxere,2490.85,City Detail
+South,SC,porto belo,1721.29,City Detail
+South,SC,rio negrinho,1609.73,City Detail
+South,SC,imbituba,1494.67,City Detail
+South,SC,sao francisco do sul,1454.44,City Detail
+South,SC,chapeco,1446.42,City Detail
+South,SC,balneario picarras,908.64,City Detail
+South,SC,nova trento,857.7,City Detail
+South,SC,sao miguel do oeste,792.93,City Detail
+South,SC,laurentino,695.36,City Detail
+South,SC,santa cecilia,638.58,City Detail
+South,SC,laguna,596.59,City Detail
+South,SC,ararangua,594.58,City Detail
+South,SC,barra velha,451.38,City Detail
+South,SC,xaxim,410.42,City Detail
+South,SC,garuva,404.93,City Detail
+South,SC,treze tilias,391.07,City Detail
+South,SC,taio,315.44,City Detail
+South,SC,pinhalzinho,262.78,City Detail
+South,SC,camboriu,254.98,City Detail
+South,SC,orleans,236.79,City Detail
+South,SC,presidente getulio,219.06,City Detail
+South,SC,campos novos,190.98,City Detail
+South,SC,gaspar,190.28,City Detail
+South,SC,cacador,160.67,City Detail
+South,SC,rio do oeste,152.8,City Detail
+South,SC,araquari,97.0,City Detail
+South,SC,itapema,87.7,City Detail
+South,SC,cordilheira alta,76.5,City Detail
+South,SC,All Cities,751687.64,State Total
+South,RS,porto alegre,121274.27,City Detail
+South,RS,caxias do sul,72647.09,City Detail
+South,RS,novo hamburgo,35758.92,City Detail
+South,RS,montenegro,31077.26,City Detail
+South,RS,canoas,24151.69,City Detail
+South,RS,cachoeirinha,24140.52,City Detail
+South,RS,santo angelo,23808.17,City Detail
+South,RS,viamao,19095.03,City Detail
+South,RS,lajeado,10942.87,City Detail
+South,RS,campo bom,10691.53,City Detail
+South,RS,carazinho,10525.67,City Detail
+South,RS,parai,7549.71,City Detail
+South,RS,sao leopoldo,5782.75,City Detail
+South,RS,bento goncalves,4241.2,City Detail
+South,RS,arvorezinha,4049.36,City Detail
+South,RS,imbe,3628.17,City Detail
+South,RS,farroupilha,3266.34,City Detail
+South,RS,portao,2614.26,City Detail
+South,RS,flores da cunha,1987.18,City Detail
+South,RS,campina das missoes,1891.3,City Detail
+South,RS,venancio aires,1534.52,City Detail
+South,RS,jacutinga,1477.38,City Detail
+South,RS,ivoti,1474.76,City Detail
+South,RS,santa maria,1429.63,City Detail
+South,RS,nova petropolis,1287.36,City Detail
+South,RS,rio grande,1175.75,City Detail
+South,RS,estancia velha,1092.1,City Detail
+South,RS,tres de maio,845.34,City Detail
+South,RS,horizontina,785.75,City Detail
+South,RS,soledade,609.5,City Detail
+South,RS,alvorada,592.73,City Detail
+South,RS,pelotas,563.98,City Detail
+South,RS,erechim,521.67,City Detail
+South,RS,rolante,516.2,City Detail
+South,RS,santa cruz do sul,453.44,City Detail
+South,RS,santo antonio da patrulha,414.79,City Detail
+South,RS,paraiso do sul,403.43,City Detail
+South,RS,igrejinha,394.22,City Detail
+South,RS,cachoeira do sul,359.03,City Detail
+South,RS,santa rosa,336.96,City Detail
+South,RS,ipe,330.06,City Detail
+South,RS,triunfo,316.23,City Detail
+South,RS,bage,266.11,City Detail
+South,RS,torres,209.88,City Detail
+South,RS,vale dos vinhedos,200.54,City Detail
+South,RS,tres coroas,174.68,City Detail
+South,RS,ronda alta,120.8,City Detail
+South,RS,imigrante,61.38,City Detail
+South,RS,sapiranga,46.01,City Detail
+South,RS,uruguaiana,45.09,City Detail
+South,RS,condor,43.13,City Detail
+South,RS,All Cities,437205.74,State Total
+South,All States,All Cities,2662505.8,Region Total
+Northeast,BA,lauro de freitas,238675.42,City Detail
+Northeast,BA,salvador,23078.54,City Detail
+Northeast,BA,guanambi,18733.18,City Detail
+Northeast,BA,ilheus,9644.62,City Detail
+Northeast,BA,arraial d'ajuda,8435.21,City Detail
+Northeast,BA,eunapolis,1880.0,City Detail
+Northeast,BA,porto seguro,1774.94,City Detail
+Northeast,BA,ipira,1751.21,City Detail
+Northeast,BA,feira de santana,1296.77,City Detail
+Northeast,BA,paulo afonso,1089.04,City Detail
+Northeast,BA,irece,363.79,City Detail
+Northeast,BA,barro alto,66.28,City Detail
+Northeast,BA,All Cities,306789.0,State Total
+Northeast,PE,recife,96225.43,City Detail
+Northeast,PE,brejao,4829.71,City Detail
+Northeast,PE,vitoria de santo antao,2341.76,City Detail
+Northeast,PE,caruaru,489.41,City Detail
+Northeast,PE,All Cities,103886.31,State Total
+Northeast,MA,sao luis,48550.24,City Detail
+Northeast,MA,All Cities,48550.24,State Total
+Northeast,CE,fortaleza,19121.06,City Detail
+Northeast,CE,caucaia,3535.16,City Detail
+Northeast,CE,mucambo,809.41,City Detail
+Northeast,CE,varzea alegre,757.75,City Detail
+Northeast,CE,pacatuba,224.75,City Detail
+Northeast,CE,eusebio,90.23,City Detail
+Northeast,CE,juazeiro do norte,62.11,City Detail
+Northeast,CE,All Cities,24600.47,State Total
+Northeast,PB,mamanguape,15046.63,City Detail
+Northeast,PB,joao pessoa,2011.11,City Detail
+Northeast,PB,sao bento,964.99,City Detail
+Northeast,PB,serra redonda,412.12,City Detail
+Northeast,PB,campina grande,149.3,City Detail
+Northeast,PB,All Cities,18584.15,State Total
+Northeast,RN,natal,7371.87,City Detail
+Northeast,RN,parnamirim,3710.64,City Detail
+Northeast,RN,messias targino,125.64,City Detail
+Northeast,RN,All Cities,11208.15,State Total
+Northeast,PI,teresina,2965.32,City Detail
+Northeast,PI,All Cities,2965.32,State Total
+Northeast,SE,aracaju,1229.1,City Detail
+Northeast,SE,neopolis,695.59,City Detail
+Northeast,SE,All Cities,1924.69,State Total
+Northeast,All States,All Cities,518508.33,Region Total
+Central-West,DF,brasilia,116296.32,City Detail
+Central-West,DF,All Cities,116296.32,State Total
+Central-West,GO,goiania,44652.61,City Detail
+Central-West,GO,aparecida de goiania,11982.21,City Detail
+Central-West,GO,anapolis,5059.13,City Detail
+Central-West,GO,rio verde,4791.38,City Detail
+Central-West,GO,morrinhos,3973.12,City Detail
+Central-West,GO,uruacu,3002.84,City Detail
+Central-West,GO,luziania,2720.93,City Detail
+Central-West,GO,piracanjuba,1465.73,City Detail
+Central-West,GO,jaragua,436.65,City Detail
+Central-West,GO,santa terezinha de goias,417.92,City Detail
+Central-West,GO,formosa,276.31,City Detail
+Central-West,GO,abadia de goias,185.88,City Detail
+Central-West,GO,All Cities,78964.71,State Total
+Central-West,MT,cuiaba,11388.95,City Detail
+Central-West,MT,sinop,9844.56,City Detail
+Central-West,MT,jaciara,468.94,City Detail
+Central-West,MT,All Cities,21702.45,State Total
+Central-West,MS,campo grande,6641.82,City Detail
+Central-West,MS,coxim,3108.83,City Detail
+Central-West,MS,All Cities,9750.65,State Total
+Central-West,All States,All Cities,226714.13,Region Total
+North,RO,porto velho,3853.85,City Detail
+North,RO,ji-parana,1621.13,City Detail
+North,RO,All Cities,5474.98,State Total
+North,AM,manaus,1258.8,City Detail
+North,AM,All Cities,1258.8,State Total
+North,AC,rio branco,299.84,City Detail
+North,AC,All Cities,299.84,State Total
+North,All States,All Cities,7033.62,Region Total
+All Regions,All States,All Cities,15843553.24,Grand Total

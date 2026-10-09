@@ -1,0 +1,34 @@
+[
+  {
+    "hierarchy": "household",
+    "detailed_value": "In group quarters",
+    "summary_value_counts": {
+      "Group Quarters- Secondary individual": 187,
+      "Child under 18 never married": 30,
+      "Householder": 23,
+      "Spouse of householder": 16,
+      "Nonrelative of householder": 14,
+      "Other relative of householder": 8,
+      "Child 18 or older": 1
+    },
+    "resolution": "Group Quarters- Secondary individual"
+  },
+  {
+    "hierarchy": "geography",
+    "detailed_value": "?",
+    "summary_value_counts": {
+      "Northeast": 648,
+      "South": 390
+    },
+    "resolution": "Northeast"
+  },
+  {
+    "hierarchy": "geography",
+    "detailed_value": "Abroad",
+    "summary_value_counts": {
+      "Abroad": 733,
+      "West": 203
+    },
+    "resolution": "Abroad"
+  }
+]

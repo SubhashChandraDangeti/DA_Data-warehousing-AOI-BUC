@@ -1,0 +1,52 @@
+level0_value,level1_value,level2_value
+?,Northeast,ANY
+Abroad,Abroad,ANY
+Alabama,South,ANY
+Alaska,West,ANY
+Arizona,West,ANY
+Arkansas,South,ANY
+California,West,ANY
+Colorado,West,ANY
+Connecticut,Northeast,ANY
+Delaware,South,ANY
+District of Columbia,South,ANY
+Florida,South,ANY
+Georgia,South,ANY
+Idaho,West,ANY
+Illinois,West,ANY
+Indiana,Midwest,ANY
+Iowa,Midwest,ANY
+Kansas,Midwest,ANY
+Kentucky,Midwest,ANY
+Louisiana,South,ANY
+Maine,South,ANY
+Maryland,Northeast,ANY
+Massachusetts,South,ANY
+Michigan,Northeast,ANY
+Minnesota,Midwest,ANY
+Mississippi,Midwest,ANY
+Missouri,South,ANY
+Montana,Midwest,ANY
+Nebraska,West,ANY
+Nevada,Midwest,ANY
+New Hampshire,West,ANY
+New Jersey,Northeast,ANY
+New Mexico,Northeast,ANY
+New York,West,ANY
+North Carolina,Northeast,ANY
+North Dakota,South,ANY
+Not in universe,Not in universe,ANY
+Ohio,Midwest,ANY
+Oklahoma,Midwest,ANY
+Oregon,South,ANY
+Pennsylvania,West,ANY
+South Carolina,Northeast,ANY
+South Dakota,South,ANY
+Tennessee,Midwest,ANY
+Texas,South,ANY
+Utah,South,ANY
+Vermont,West,ANY
+Virginia,Northeast,ANY
+West Virginia,West,ANY
+Wisconsin,South,ANY
+Wyoming,Midwest,ANY

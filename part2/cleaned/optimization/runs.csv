@@ -1,0 +1,13 @@
+config,ordering,repeat,minsup,runtime_sec,reordering_sec,cells,examined,dimension_order
+in_memory_8dims,original,1,1000,3.5676360999932513,1.6999838408082724e-06,10235,170737,sex_code;race_code;marital_status_code;class_of_worker_code;education_code;age;hispanic_origin_code;industry_code_major_code
+in_memory_8dims,original,2,1000,3.3642543999885675,1.6999838408082724e-06,10235,170737,sex_code;race_code;marital_status_code;class_of_worker_code;education_code;age;hispanic_origin_code;industry_code_major_code
+in_memory_8dims,original,3,1000,3.542528799996944,1.6999838408082724e-06,10235,170737,sex_code;race_code;marital_status_code;class_of_worker_code;education_code;age;hispanic_origin_code;industry_code_major_code
+in_memory_8dims,optimized,1,1000,2.0738222999789286,0.016526299994438887,10235,38213,age;industry_code_major_code;education_code;hispanic_origin_code;class_of_worker_code;marital_status_code;race_code;sex_code
+in_memory_8dims,optimized,2,1000,2.1794413999887183,0.016526299994438887,10235,38213,age;industry_code_major_code;education_code;hispanic_origin_code;class_of_worker_code;marital_status_code;race_code;sex_code
+in_memory_8dims,optimized,3,1000,2.247402599983616,0.016526299994438887,10235,38213,age;industry_code_major_code;education_code;hispanic_origin_code;class_of_worker_code;marital_status_code;race_code;sex_code
+paged_6dims,original,1,1000,190.7514336000022,2.1999876480549574e-06,2853,67040,sex_code;race_code;marital_status_code;class_of_worker_code;education_code;age
+paged_6dims,original,2,1000,165.87340919999406,2.1999876480549574e-06,2853,67040,sex_code;race_code;marital_status_code;class_of_worker_code;education_code;age
+paged_6dims,original,3,1000,190.7677382999973,2.1999876480549574e-06,2853,67040,sex_code;race_code;marital_status_code;class_of_worker_code;education_code;age
+paged_6dims,optimized,1,1000,66.93676630000118,0.04945109999971464,2853,10159,age;education_code;class_of_worker_code;marital_status_code;race_code;sex_code
+paged_6dims,optimized,2,1000,62.64862669998547,0.04945109999971464,2853,10159,age;education_code;class_of_worker_code;marital_status_code;race_code;sex_code
+paged_6dims,optimized,3,1000,58.04085839999607,0.04945109999971464,2853,10159,age;education_code;class_of_worker_code;marital_status_code;race_code;sex_code

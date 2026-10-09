@@ -1,0 +1,68 @@
+{
+  "industry": {
+    "dimension_column": "industry_code_detailed",
+    "levels": [
+      "detailed industry",
+      "major industry",
+      "ANY"
+    ],
+    "source": "dataset detailed/summary pair; majority mapping with exceptions logged",
+    "n_violations": 0,
+    "file": "cleaned\\hierarchies\\industry_hierarchy.csv"
+  },
+  "occupation": {
+    "dimension_column": "occupation_code_detailed",
+    "levels": [
+      "detailed occupation",
+      "major occupation",
+      "ANY"
+    ],
+    "source": "dataset detailed/summary pair; majority mapping with exceptions logged",
+    "n_violations": 0,
+    "file": "cleaned\\hierarchies\\occupation_hierarchy.csv"
+  },
+  "household": {
+    "dimension_column": "household_family_status",
+    "levels": [
+      "household family status",
+      "household summary",
+      "ANY"
+    ],
+    "source": "dataset detailed/summary pair; majority mapping with exceptions logged",
+    "n_violations": 1,
+    "file": "cleaned\\hierarchies\\household_hierarchy.csv"
+  },
+  "geography": {
+    "dimension_column": "state_prev_residence",
+    "levels": [
+      "state of previous residence",
+      "region of previous residence",
+      "ANY"
+    ],
+    "source": "dataset detailed/summary pair; majority mapping with exceptions logged",
+    "n_violations": 2,
+    "file": "cleaned\\hierarchies\\geography_hierarchy.csv"
+  },
+  "age": {
+    "dimension_column": "age",
+    "levels": [
+      "single year",
+      "age band",
+      "ANY"
+    ],
+    "source": "submitted age_hierarchy.csv",
+    "n_violations": 0,
+    "file": "cleaned\\hierarchies\\age_hierarchy.csv"
+  },
+  "education": {
+    "dimension_column": "education",
+    "levels": [
+      "education category",
+      "education tier",
+      "ANY"
+    ],
+    "source": "submitted education_hierarchy.csv",
+    "n_violations": 0,
+    "file": "cleaned\\hierarchies\\education_hierarchy.csv"
+  }
+}

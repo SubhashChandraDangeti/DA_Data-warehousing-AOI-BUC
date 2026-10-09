@@ -1,0 +1,30 @@
+# Python environments and caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Editors and operating-system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Raw datasets
+part1/M26_DA_A2_Part1/
+part2/M26_DA_A2_Part2.csv
+
+# Regenerated warehouse and large intermediate datasets
+part1/warehouse.duckdb
+part1/warehouse.duckdb.wal
+part1/cleaned/
+part2/cleaned/census_encoded.csv
+part2/cleaned/buc_12dim_output.csv
+part2/cleaned/buc_12dim_paged_output.csv
+
+# Temporary BUC spill artifacts
+buc_*.bin
+p*.bin
+s*_*.bin
+
